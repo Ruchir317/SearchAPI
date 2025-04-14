@@ -11,7 +11,6 @@ from google.genai import types
 from tqdm import tqdm
 import nltk
 
-nltk.download('punkt_tab')
 load_dotenv()
 
 # ENVIRONMENT VARIABLES
