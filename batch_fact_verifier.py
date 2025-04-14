@@ -179,14 +179,39 @@ def process_fact(index, fact, done_ids):
 
 # FINAL SAVE
 def save_all_outputs():
-    with open(os.path.join(OUTPUT_DIR, "fact_results.json"), "w", encoding="utf-8") as f:
-        json.dump(all_fact_results, f, ensure_ascii=False, indent=2)
+    def load_existing(path):
+        if os.path.exists(path):
+            with open(path, "r", encoding="utf-8") as f:
+                return json.load(f)
+        return []
 
-    with open(os.path.join(OUTPUT_DIR, "full_output.json"), "w", encoding="utf-8") as f:
-        json.dump(all_full_outputs, f, ensure_ascii=False, indent=2)
+    def merge_unique(existing, new, key="fact"):
+        seen = set()
+        merged = []
 
-    with open(os.path.join(OUTPUT_DIR, "parsed_output.json"), "w", encoding="utf-8") as f:
-        json.dump(all_parsed_outputs, f, ensure_ascii=False, indent=2)
+        for item in existing + new:
+            k = item.get(key)
+            if k and k not in seen:
+                merged.append(item)
+                seen.add(k)
+        return merged
+
+    fact_path = os.path.join(OUTPUT_DIR, "fact_results.json")
+    full_path = os.path.join(OUTPUT_DIR, "full_output.json")
+    parsed_path = os.path.join(OUTPUT_DIR, "parsed_output.json")
+
+    merged_facts = merge_unique(load_existing(fact_path), all_fact_results)
+    merged_full = merge_unique(load_existing(full_path), all_full_outputs)
+    merged_parsed = merge_unique(load_existing(parsed_path), all_parsed_outputs)
+
+    with open(fact_path, "w", encoding="utf-8") as f:
+        json.dump(merged_facts, f, ensure_ascii=False, indent=2)
+
+    with open(full_path, "w", encoding="utf-8") as f:
+        json.dump(merged_full, f, ensure_ascii=False, indent=2)
+
+    with open(parsed_path, "w", encoding="utf-8") as f:
+        json.dump(merged_parsed, f, ensure_ascii=False, indent=2)
 
 # ERROR LOGGING
 def log_error(index, fact, error):
@@ -205,16 +230,14 @@ def run_verification_batch(start_idx=0, end_idx=10):
     for index, fact in tqdm(statements, total=len(statements)):
         try:
             process_fact(index, fact, done_ids)
+            save_checkpoint(done_ids)
+            save_all_outputs()  # ✅ Save after each successful iteration
         except Exception as e:
             log_error(index, fact, e)
             continue
 
-    save_checkpoint(done_ids)
-    save_all_outputs()
-
     print(f"\n✅ Done! Processed range {start_idx}–{end_idx}")
     print(f"🧠 Previously done: {len(initial_done)} | Newly saved: {len(done_ids) - len(initial_done)}")
-
 
 # CLI entry point
 if __name__ == "__main__":
