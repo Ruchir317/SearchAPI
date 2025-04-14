@@ -5,9 +5,8 @@ from batch_fact_verifier import run_verification_batch
 
 # === CONFIG ===
 start = 0
-end = 40
-# commit_message = f"Auto-push results for range {start}-{end}"
-commit_message = f"Another Commit to Add Auto Git Pusher"
+end = 50
+commit_message = f"Auto-push results for range {start}-{end}"
 
 # === Step 1: Run the batch verifier directly
 print(f"🔍 Running batch_fact_verifier.py via function call (range {start}-{end})...")
@@ -25,12 +24,14 @@ files_to_push = [
 ]
 
 # Push all
-subprocess.run(["git", "add", "."], check=True)
+# subprocess.run(["git", "add", "."], check=True)
 
 # Stage files
-# for file in files_to_push:
-#     if os.path.exists(file):
-#         subprocess.run(["git", "add", file], check=True)
+for file in files_to_push:
+    if os.path.exists(file):
+        subprocess.run(["git", "add", file], check=True)
+
+subprocess.run(["git", "add", "error_log.txt"], check=True)
 
 timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 subprocess.run(["git", "commit", "-m", f"{commit_message} at {timestamp}"], check=True)
