@@ -1,90 +1,98 @@
 [
   {
-    "fact": "A German doctor discovered the COVID-19 vaccines include graphene oxide or graphene hydroxide, and the full list of ingredients is secret because of the emergency use authorization.",
+    "fact": "On new dollar coins, \"'In God We Trust' is gone!\"",
     "verdict": "False",
-    "collective_summary": "The claim that a German doctor discovered COVID-19 vaccines contain graphene oxide or graphene hydroxide and that the full list of ingredients is secret is false. Manufacturers have published the ingredient lists, and while graphene oxide is used in some vaccines, it is not used in Pfizer's COVID-19 vaccine.",
-    "reasoning": "The claim is directly refuted by Politifact, which states that manufacturers have published the ingredient lists for COVID-19 vaccines. Additionally, while graphene oxide is used in some vaccines, it is not used in Pfizer's COVID-19 vaccine.",
+    "collective_summary": "The claim that \"In God We Trust\" is gone from new dollar coins is false. While some early presidential series coins in 2007 lacked the inscription due to a minting error, all coins in the presidential series since 2009 have had \"In God We Trust\" inscribed on the front. These \"Godless dollars\" are rare errors that are sought after by collectors.",
+    "reasoning": "The claim is based on a misunderstanding and misrepresentation of the facts. The absence of \"In God We Trust\" on some dollar coins was due to a minting error in 2007, not an intentional removal. The U.S. Mint continues to produce dollar coins with the inscription, and the error coins are considered rare and valuable.",
     "sources_summary": [
-      "**Politifact:** Debunks the claim that COVID-19 vaccines contain graphene oxide or graphene hydroxide and that the full list of ingredients is secret.",
-      "**Media Bias/Fact Check:** Sovren Media is known for hosting conspiracy-related content, including COVID-19 conspiracies.",
-      "**MDPI:** Discusses antimicrobial photodynamic therapy and its development."
+      "**'Godless Dollars' - FactCheck.org:** Explains the origin of \"Godless dollars\" due to minting errors and their value to collectors.",
+      "**Taking \"In God We Trust\" off coins was debunked years ago - PolitiFact:** Confirms that the claim is false and that dollar coins have \"In God We Trust\" inscribed on them.",
+      "**The U.S. Presidential dollar series: Failure or success?:** Provides background on the Presidential dollar series and its features.",
+      "**E-mail claims 'In God We Trust' removed from dollar coins - PolitiFact:** Debunks the claim that \"In God We Trust\" has been removed from dollar coins.",
+      "**Nine Things You Didn't Know About Presidential Dollars - The ...:** Offers facts about the Presidential dollar series.",
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** Classifies the claim as false."
     ]
   },
   {
-    "fact": "Says he lived in a colonia while working as a farm worker.",
+    "fact": "Says \"over 1 million signatures\" were submitted in attempt to recall Gov. Scott Walker.",
     "verdict": "True",
-    "collective_summary": "The claim is true. Cesar Chavez lived in La Colonia while working as a farm worker. La Colonia is a low-income neighborhood in Oxnard, California.",
-    "reasoning": "Multiple sources confirm that Cesar Chavez lived in La Colonia. The UFW article mentions he lived in La Colonia. Other articles provide context about La Colonia as a neighborhood in Oxnard, California.",
+    "collective_summary": "News articles confirm that over 1 million signatures were submitted in an attempt to recall Wisconsin Governor Scott Walker. The signatures were submitted to the Wisconsin Government Accountability Board (GAB).",
+    "reasoning": "Multiple sources confirm that over 1 million signatures were submitted in an attempt to recall Gov. Scott Walker. The recall effort was a response to the 2011 Wisconsin Act 10.",
     "sources_summary": [
-      "**The Story of Cesar Chavez – UFW:** Confirms Cesar Chavez lived in La Colonia.",
-      "**David Alameel lived in La Colonia in California, but it ... - PolitiFact:** Provides context about La Colonia as a low-income neighborhood in Oxnard, California.",
-      "**Cesar Chavez's Early Connection to Ventura County - Service ...:** Mentions Cesar Chavez's connection to Oxnard."
+      "**WI Senate Leader Working Overtime to Stave Off Recall | PR Watch:** Mentions over 1 million signatures were submitted in the recall effort against Scott Walker.",
+      "**2011 Wisconsin protests - Wikipedia:** States that over 1 million signatures to recall Governor Walker were submitted to the state GAB on over 100,000 recall petitions.",
+      "**Wisconsin Protests - SourceWatch:** States that Scott Walker filed over 1 million signatures with the state.",
+      "**The Electrical Worker Online:** Confirms that over 1 million signatures supporting a recall election for Walker were submitted to the Wisconsin Government Accountability Board.",
+      "**Christian Schneider | New York Post:** States that recall efforts in Wisconsin succeeded in collecting over 1 million signatures for mounting a recall."
     ]
   },
   {
-    "fact": "\"The Republicans have demanded deep cuts in education. They've demanded cuts in cancer research and other research to find cures and treatments to diseases.\"",
+    "fact": "\"All the billionaires in America, their net worth combined … has increased by $800 billion\" during the pandemic.",
+    "verdict": "True",
+    "collective_summary": "Joe Biden claimed that the net worth of all American billionaires combined increased by $800 billion during the pandemic. This claim is supported by a study from a left-leaning think tank, which found that the net worth of billionaires increased by $845.1 billion between March 18 and September 15.",
+    "reasoning": "The claim is based on a study that analyzed Forbes data on billionaires' net worth. The study found an increase of $845.1 billion in the net worth of billionaires between March 18 and September 15, which supports the claim that their net worth increased by $800 billion during the pandemic.",
+    "sources_summary": [
+      "**Biden says billionaires gained $800 billion, but study ... - PolitiFact:** This article confirms Biden's claim that the net worth of American billionaires increased by $800 billion during the pandemic, citing a study that found an increase of $845.1 billion between March 18 and September 15."
+    ]
+  },
+  {
+    "fact": "African-Americans don't use drugs at a higher level than whites but \"wind up going to prison six times more.\"",
+    "verdict": "Mostly True",
+    "collective_summary": "The claim that African-Americans don't use drugs at a higher level than whites but are imprisoned for drug offenses at roughly six times the rate is mostly true. While overall drug use rates are similar between whites and blacks, imprisonment rates for drug offenses are significantly higher for African-Americans.",
+    "reasoning": "The provided articles from Politifact confirm that drug use rates are similar between whites and blacks. However, the imprisonment rate for drug offenses is approximately 5.8 times higher for blacks than for whites, supporting the claim that African-Americans are imprisoned at a disproportionately higher rate for drug-related crimes.",
+    "sources_summary": [
+      "**Van Jones claim on drug use, imprisonment rates for ... - PolitiFact:** Confirms similar drug use rates but a 5.8 times higher imprisonment rate for drug offenses for blacks.",
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** Indicates the claim is true.",
+      "**Van Jones - PolitiFact:** Provides background information on Van Jones."
+    ]
+  },
+  {
+    "fact": "\"PWNED: House GOP Dominates Twitter, YouTube, Social Media in Congress.\"",
+    "verdict": "True",
+    "collective_summary": "The article's title suggests that House Republicans dominate social media platforms like Twitter and YouTube within Congress.",
+    "reasoning": "The title of the article explicitly states that the House GOP dominates Twitter, YouTube, and social media in Congress.",
+    "sources_summary": [
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** The title of the article claims that the House GOP dominates Twitter, YouTube, and social media in Congress."
+    ]
+  },
+  {
+    "fact": "\"This year, the federal government will have more revenue than any year in the history of our country.\"",
+    "verdict": "True",
+    "collective_summary": "The article states that this year, the federal government will have more revenue than any year in the history of our country.",
+    "reasoning": "The provided article explicitly states the claim is true.",
+    "sources_summary": [
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** The article claims that this year, the federal government will have more revenue than any year in the history of our country."
+    ]
+  },
+  {
+    "fact": "Says ex-Minneapolis officer accused of killing George Floyd commits suicide in prison cell.",
     "verdict": "False",
-    "collective_summary": "The provided article snippet does not contain information to support the claim that Republicans have demanded deep cuts in education, cancer research, or other research to find cures and treatments for diseases. Instead, it discusses the possibility of a government shutdown and the debate over potential cuts.",
-    "reasoning": "The article snippet focuses on the debate around preventing a government shutdown and the potential cuts that might be implemented. It does not specifically mention Republicans demanding cuts in education, cancer research, or disease treatment research.",
+    "collective_summary": "The claim that Derek Chauvin committed suicide in his prison cell is false. While he was stabbed in prison in November 2023, he survived the attack.",
+    "reasoning": "Several articles refute the claim that Derek Chauvin committed suicide. While he was stabbed in prison, he survived and was later moved to a new prison.",
     "sources_summary": [
-      "**This Week With Christiane Amanpour : WJLA : April 10, 2011 10 ...:** Discusses the possibility of a government shutdown and the debate over potential cuts, without mentioning specific cuts to education or research."
+      "**Article 1:** Debunks the false claim that Derek Chauvin committed suicide in his prison cell.",
+      "**Article 2:** Confirms Derek Chauvin was stabbed in prison but remained in stable condition.",
+      "**Article 4:** Reports Derek Chauvin was transferred to a federal prison in Texas after being stabbed in a different facility.",
+      "**Article 6:** Details that Derek Chauvin was stabbed 22 times in federal prison."
     ]
   },
   {
-    "fact": "\"75% of Republicans have been vaccinated\" against COVID-19 in Illinois.",
+    "fact": "\"59 percent of Americans today believe that Barack Obama is still a Muslim.\"",
+    "verdict": "True",
+    "collective_summary": "The provided article states that 59 percent of Americans today believe that Barack Obama is still a Muslim.",
+    "reasoning": "The article explicitly states that \"59 percent of Americans today believe that Barack Obama is still a Muslim.\"",
+    "sources_summary": [
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** This article claims that 59 percent of Americans today believe that Barack Obama is still a Muslim."
+    ]
+  },
+  {
+    "fact": "The average age of planes in the Qatar Airways fleet is about four years while Delta Air Lines flies planes that are 35 years old.",
     "verdict": "False",
-    "collective_summary": "There is no evidence to support the claim that 75% of Republicans in Illinois have been vaccinated against COVID-19. Polling experts, news coverage, and state data do not back up this claim. Counties that voted for Trump in 2020 have a lower average vaccination rate than counties that voted for Biden.",
-    "reasoning": "Both articles state that there is no evidence to support the claim that 75% of Republicans in Illinois have been vaccinated. Experts were contacted, news coverage was surveyed, and state data was reviewed, but no evidence was found.",
+    "collective_summary": "The claim is false. The CEO of Qatar Airways stated in 2015 that the average fleet age was about four years. However, Delta's fleet age is about 14.9 years old, not 35.",
+    "reasoning": "The provided articles indicate that the average age of Qatar Airways' fleet was approximately four years as of 2015, according to its CEO. While one article mentions Delta flying \"crap airplanes,\" another source, Wikipedia, states that Delta's average fleet age is 14.9 years, which contradicts the claim that Delta flies planes that are 35 years old.",
     "sources_summary": [
-      "**No proof for lawmaker's claim that 75% of Illinois ... - PolitiFact:** PolitiFact found no evidence to support the claim that 75% of Republicans in Illinois have been vaccinated against COVID-19.",
-      "**Fact-check: Downstate lawmaker misses the mark with GOP ...:** The Chicago Sun-Times also found no evidence to support the claim that 75% of Republicans in Illinois have been vaccinated against COVID-19."
-    ]
-  },
-  {
-    "fact": "\"Creating 25 jobs in Umatilla County has the same impact as 500 jobs in the metro region.\"",
-    "verdict": "True",
-    "collective_summary": "The provided article states that creating 25 jobs in Umatilla County has the same impact as creating 500 jobs in the metro region.",
-    "reasoning": "The article explicitly states the claim to be true.",
-    "sources_summary": [
-      "**Fake-News-Detection-System/datasets/train.csv at master ...:** This article states that creating 25 jobs in Umatilla County has the same impact as 500 jobs in the metro region."
-    ]
-  },
-  {
-    "fact": "\"When I become the nominee, the Democratic nominee, I will be the only pro-choice candidate on the ballot.\"",
-    "verdict": "True",
-    "collective_summary": "The article directly quotes the statement and Politifact has rated it as \"mostly true\".",
-    "reasoning": "The provided article quotes the claim directly. The article is a Politifact fact check that rated the claim as \"mostly true\".",
-    "sources_summary": [
-      "**Group's ad attacks Rick Scott over history as Columbia ... - PolitiFact:** This article quotes the claim and is a Politifact fact check."
-    ]
-  },
-  {
-    "fact": "Financial conflict-of-interest \"laws don't apply to the president, right? So, the president doesn't have to have a blind trust.\"",
-    "verdict": "True",
-    "collective_summary": "According to PolitiFact, financial conflict-of-interest laws do not apply to the president, meaning the president is not required to have a blind trust. This is supported by the US code, which does not apply conflict of interest laws to the president.",
-    "reasoning": "The provided articles confirm that financial conflict-of-interest laws do not apply to the president, and therefore, the president is not legally obligated to have a blind trust. This is based on the interpretation of the US code.",
-    "sources_summary": [
-      "**Giuliani: President Trump will be exempt from conflict-of ... - PolitiFact:** PolitiFact rates the claim that financial conflict-of-interest laws don't apply to the president as true.",
-      "**This is the single most dangerous thing Donald Trump said in his ...:** The article references Trump's statement that conflict of interest laws don't apply to the president and cites PolitiFact's \"true\" rating of the claim."
-    ]
-  },
-  {
-    "fact": "\"Given how expansive our program already was,\" expanding Medicaid in New Jersey due to Obamacare \"was a relatively small expansion.\"",
-    "verdict": "True",
-    "collective_summary": "The article states that expanding Medicaid in New Jersey due to Obamacare was a relatively small expansion, given the existing program's scope.",
-    "reasoning": "The provided article directly supports the claim that expanding Medicaid in New Jersey due to Obamacare was a relatively small expansion, considering the existing program's size.",
-    "sources_summary": [
-      "**Fake-News-Detection-System/datasets/train.csv at master ...:** States that expanding Medicaid in New Jersey due to Obamacare was a relatively small expansion given the existing program."
-    ]
-  },
-  {
-    "fact": "Says a federal judge \"sanctions Tennessee ‘birther’ lawyer … for bringing a frivolous lawsuit.\"",
-    "verdict": "True",
-    "collective_summary": "Both articles confirm that a federal judge sanctioned a Tennessee \"birther\" lawyer for filing a frivolous lawsuit.",
-    "reasoning": "Both articles explicitly state that a federal judge sanctioned a Tennessee \"birther\" lawyer for bringing a frivolous lawsuit.",
-    "sources_summary": [
-      "**Fake-News-Detection-System/datasets/train.csv at master ...:** Confirms the claim that a federal judge sanctioned a Tennessee \"birther\" lawyer for bringing a frivolous lawsuit.",
-      "**Tennessee Speaker Ramsey says Republicans delivered ... - PolitiFact:** Confirms the claim that a federal judge sanctioned a Tennessee \"birther\" lawyer for bringing a frivolous lawsuit."
+      "**Article 1:** Quotes Qatar Airways CEO stating their average fleet age is about four years.",
+      "**Article 5:** States Delta Air Lines' average fleet age is 14.9 years."
     ]
   }
 ]
