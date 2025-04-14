@@ -1,231 +1,90 @@
 [
   {
-    "fact": "John McCain opposed bankruptcy protections for families \"who were only in bankruptcy because of medical expenses they couldn't pay.\"",
+    "fact": "A German doctor discovered the COVID-19 vaccines include graphene oxide or graphene hydroxide, and the full list of ingredients is secret because of the emergency use authorization.",
+    "verdict": "False",
+    "collective_summary": "The claim that a German doctor discovered COVID-19 vaccines contain graphene oxide or graphene hydroxide and that the full list of ingredients is secret is false. Manufacturers have published the ingredient lists, and while graphene oxide is used in some vaccines, it is not used in Pfizer's COVID-19 vaccine.",
+    "reasoning": "The claim is directly refuted by Politifact, which states that manufacturers have published the ingredient lists for COVID-19 vaccines. Additionally, while graphene oxide is used in some vaccines, it is not used in Pfizer's COVID-19 vaccine.",
+    "sources_summary": [
+      "**Politifact:** Debunks the claim that COVID-19 vaccines contain graphene oxide or graphene hydroxide and that the full list of ingredients is secret.",
+      "**Media Bias/Fact Check:** Sovren Media is known for hosting conspiracy-related content, including COVID-19 conspiracies.",
+      "**MDPI:** Discusses antimicrobial photodynamic therapy and its development."
+    ]
+  },
+  {
+    "fact": "Says he lived in a colonia while working as a farm worker.",
     "verdict": "True",
-    "collective_summary": "The articles state that John McCain opposed bankruptcy protections for families who were only in bankruptcy because of medical expenses they couldn't pay.",
-    "reasoning": "Both articles confirm that John McCain opposed bankruptcy protections for families who were only in bankruptcy because of medical expenses.",
+    "collective_summary": "The claim is true. Cesar Chavez lived in La Colonia while working as a farm worker. La Colonia is a low-income neighborhood in Oxnard, California.",
+    "reasoning": "Multiple sources confirm that Cesar Chavez lived in La Colonia. The UFW article mentions he lived in La Colonia. Other articles provide context about La Colonia as a neighborhood in Oxnard, California.",
     "sources_summary": [
-      "**Fake-News-Detection-System/datasets/train.csv at master ...:** This article confirms the claim that John McCain opposed bankruptcy protections for families with medical expenses.",
-      "**(PDF) Critical discourse analysis - scope, challenges and limitations:** This article states that John McCain opposed exempting families who were only in bankruptcy because of medical expenses."
+      "**The Story of Cesar Chavez – UFW:** Confirms Cesar Chavez lived in La Colonia.",
+      "**David Alameel lived in La Colonia in California, but it ... - PolitiFact:** Provides context about La Colonia as a low-income neighborhood in Oxnard, California.",
+      "**Cesar Chavez's Early Connection to Ventura County - Service ...:** Mentions Cesar Chavez's connection to Oxnard."
     ]
   },
   {
-    "fact": "\"Bennie Thompson actively cheer-led riots in the ’90s.\"",
+    "fact": "\"The Republicans have demanded deep cuts in education. They've demanded cuts in cancer research and other research to find cures and treatments to diseases.\"",
     "verdict": "False",
-    "collective_summary": "The claim that Bennie Thompson actively cheer-led riots in the ’90s is false, according to Politifact.",
-    "reasoning": "Politifact has rated the claim as false. The article summary does not provide any information to support the claim.",
+    "collective_summary": "The provided article snippet does not contain information to support the claim that Republicans have demanded deep cuts in education, cancer research, or other research to find cures and treatments for diseases. Instead, it discusses the possibility of a government shutdown and the debate over potential cuts.",
+    "reasoning": "The article snippet focuses on the debate around preventing a government shutdown and the potential cuts that might be implemented. It does not specifically mention Republicans demanding cuts in education, cancer research, or disease treatment research.",
     "sources_summary": [
-      "**Matt Gaetz - PolitiFact:** Politifact rated the claim that Bennie Thompson actively cheer-led riots in the ’90s as false."
+      "**This Week With Christiane Amanpour : WJLA : April 10, 2011 10 ...:** Discusses the possibility of a government shutdown and the debate over potential cuts, without mentioning specific cuts to education or research."
     ]
   },
   {
-    "fact": "Says Maggie Hassan was \"out of state on 30 days over the last three months.\"",
+    "fact": "\"75% of Republicans have been vaccinated\" against COVID-19 in Illinois.",
+    "verdict": "False",
+    "collective_summary": "There is no evidence to support the claim that 75% of Republicans in Illinois have been vaccinated against COVID-19. Polling experts, news coverage, and state data do not back up this claim. Counties that voted for Trump in 2020 have a lower average vaccination rate than counties that voted for Biden.",
+    "reasoning": "Both articles state that there is no evidence to support the claim that 75% of Republicans in Illinois have been vaccinated. Experts were contacted, news coverage was surveyed, and state data was reviewed, but no evidence was found.",
+    "sources_summary": [
+      "**No proof for lawmaker's claim that 75% of Illinois ... - PolitiFact:** PolitiFact found no evidence to support the claim that 75% of Republicans in Illinois have been vaccinated against COVID-19.",
+      "**Fact-check: Downstate lawmaker misses the mark with GOP ...:** The Chicago Sun-Times also found no evidence to support the claim that 75% of Republicans in Illinois have been vaccinated against COVID-19."
+    ]
+  },
+  {
+    "fact": "\"Creating 25 jobs in Umatilla County has the same impact as 500 jobs in the metro region.\"",
     "verdict": "True",
-    "collective_summary": "According to a press release, Maggie Hassan was \"out of state on 30 days over the last three months.\"",
-    "reasoning": "The article from Politifact directly addresses the claim that Maggie Hassan was out of state for 30 days over three months, attributing the statement to a press release.",
+    "collective_summary": "The provided article states that creating 25 jobs in Umatilla County has the same impact as creating 500 jobs in the metro region.",
+    "reasoning": "The article explicitly states the claim to be true.",
     "sources_summary": [
-      "**How many days was Maggie Hassan out of New ... - PolitiFact:** States Maggie Hassan was \"out of state on 30 days over the last three months.\""
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** This article states that creating 25 jobs in Umatilla County has the same impact as 500 jobs in the metro region."
     ]
   },
   {
-    "fact": "\"BUSTED: CDC Inflated COVID Numbers, Accused of Violating Federal Law\"",
-    "verdict": "False",
-    "collective_summary": "The claim that the CDC inflated COVID numbers and violated federal law is based on a flawed report. The CDC issued guidance on how to complete COVID-19 death certificates, which was not a significant departure from previous guidelines.",
-    "reasoning": "The articles provided refute the claim that the CDC inflated COVID numbers. One article specifically addresses the claim and states that it is based on a flawed report. The other article mentions the claim in passing but does not provide any evidence to support it.",
-    "sources_summary": [
-      "**factcheck.org:** Addresses the claim that the CDC inflated COVID numbers, stating it's based on a flawed report and misrepresents CDC data.",
-      "**newsfollowup.com:** Mentions the claim in the context of a timeline, but does not provide any evidence to support it."
-    ]
-  },
-  {
-    "fact": "\"There are actually only 30 countries that practice birthright citizenship.\"",
+    "fact": "\"When I become the nominee, the Democratic nominee, I will be the only pro-choice candidate on the ballot.\"",
     "verdict": "True",
-    "collective_summary": "The consensus from the provided articles is that the claim \"There are actually only 30 countries that practice birthright citizenship\" is true. This statement was made by S.E. Cupp and has been fact-checked by PolitiFact.",
-    "reasoning": "Multiple articles confirm the claim that only about 30 countries practice birthright citizenship, with the United States being noted as an anomaly in this regard. PolitiFact has rated this statement as true.",
+    "collective_summary": "The article directly quotes the statement and Politifact has rated it as \"mostly true\".",
+    "reasoning": "The provided article quotes the claim directly. The article is a Politifact fact check that rated the claim as \"mostly true\".",
     "sources_summary": [
-      "**S.E. Cupp: Only about 30 other countries offer birthright ... - PolitiFact:** This article confirms that S.E. Cupp stated that only about 30 countries practice birthright citizenship.",
-      "**Fake-News-Detection-System/datasets/train.csv at master ...:** This source lists the claim \"There are actually only 30 countries that practice birthright citizenship\" as false.",
-      "**S.E. Cupp - PolitiFact:** This article confirms that PolitiFact rated S.E. Cupp's statement about 30 countries practicing birthright citizenship as true.",
-      "**Fact-checking presidential candidates on the Aug. 16 ... - PolitiFact:** This article confirms that PolitiFact rated the statement about 30 countries practicing birthright citizenship as true."
+      "**Group's ad attacks Rick Scott over history as Columbia ... - PolitiFact:** This article quotes the claim and is a Politifact fact check."
     ]
   },
   {
-    "fact": "\"My husband and I have never gotten a penny of money from the farm.\"",
-    "verdict": "False",
-    "collective_summary": "Michele Bachmann claimed that she and her husband have never received a penny from the Bachmann Farm Family LP. However, financial disclosure forms indicate that she has received income from the farm, and the farm itself received nearly $260,000 in federal subsidies between 1995 and 2008.",
-    "reasoning": "Bachmann's financial disclosure forms list the Bachmann Farm Family LP as an asset and source of income. While her campaign claims that the income was retained by the farm and they did not directly benefit, the financial disclosures contradict her statement that they never received any money from the farm.",
-    "sources_summary": [
-      "**Bachmann's Waterloo - FactCheck.org:** Bachmann's farm received $259,332 in subsidies from 1995 through 2008.",
-      "**Rep. Michele Bachmann says she's never received a ... - PolitiFact:** Bachmann's financial disclosure forms list the Bachmann Farm Family LP as an asset, and she received between $15,001 and $50,000 from it in 2009.",
-      "**Bachmann's inaccurate statements emerge in GOP 2012 race - MPR News:** Bachmann claimed she and her husband have never gotten a penny of money from the farm.",
-      "**Michele Bachmann launches 2012 presidential bid - The Guardian:** Bachmann's financial disclosure forms show her receiving between $15,000 and $50,000 from the Bachmann Family Farm LP.",
-      "**Bachmann Income Disclosure Lists Income From Farm That Got ... - Truthout:** Bachmann listed the farm as a source of income in her 2010 personal financial disclosures, despite claiming she never received income from it."
-    ]
-  },
-  {
-    "fact": "\"If you go strictly by the numbers, crime is down across the board. Last year we had a 10 percent decrease in the most serious crimes.\"",
+    "fact": "Financial conflict-of-interest \"laws don't apply to the president, right? So, the president doesn't have to have a blind trust.\"",
     "verdict": "True",
-    "collective_summary": "The provided source states that crime is down across the board, with a 10 percent decrease in the most serious crimes last year.",
-    "reasoning": "The article explicitly states that crime is down across the board, with a 10 percent decrease in the most serious crimes last year.",
+    "collective_summary": "According to PolitiFact, financial conflict-of-interest laws do not apply to the president, meaning the president is not required to have a blind trust. This is supported by the US code, which does not apply conflict of interest laws to the president.",
+    "reasoning": "The provided articles confirm that financial conflict-of-interest laws do not apply to the president, and therefore, the president is not legally obligated to have a blind trust. This is based on the interpretation of the US code.",
     "sources_summary": [
-      "**Fake-News-Detection-System/datasets/train.csv at master ...:** The article claims that crime is down across the board, with a 10 percent decrease in the most serious crimes last year."
+      "**Giuliani: President Trump will be exempt from conflict-of ... - PolitiFact:** PolitiFact rates the claim that financial conflict-of-interest laws don't apply to the president as true.",
+      "**This is the single most dangerous thing Donald Trump said in his ...:** The article references Trump's statement that conflict of interest laws don't apply to the president and cites PolitiFact's \"true\" rating of the claim."
     ]
   },
   {
-    "fact": "\"The American people say, don't touch Social Security, don't touch Medicare, don't cut defense. That's 84 percent of the federal budget.\"",
-    "verdict": "False",
-    "collective_summary": "The provided article includes the claim, but does not provide any evidence to support it.",
-    "reasoning": "The article directly quotes the claim, but it does not offer any data or analysis to verify the accuracy of the statement that Social Security, Medicare, and defense spending constitute 84% of the federal budget. Without additional evidence, the claim cannot be verified as true.",
-    "sources_summary": [
-      "**The Insider | InsideDefense.com:** Quotes the claim about Social Security, Medicare, and defense spending making up 84% of the federal budget, but does not verify it."
-    ]
-  },
-  {
-    "fact": "\"Since 1978, CEO compensation rose over 1,000% and only 11.9% for average workers.\"",
+    "fact": "\"Given how expansive our program already was,\" expanding Medicaid in New Jersey due to Obamacare \"was a relatively small expansion.\"",
     "verdict": "True",
-    "collective_summary": "The claim that CEO compensation rose over 1,000% since 1978 while average worker compensation only rose 11.9% is accurate. This is based on a report that reviewed pay for CEOs and average workers at America's top 350 firms through 2018.",
-    "reasoning": "PolitiFact has rated the claim as true, based on a study that found CEO compensation rose 1,007.5% between 1978 and 2018, while average worker pay increased by only 11.9%.",
+    "collective_summary": "The article states that expanding Medicaid in New Jersey due to Obamacare was a relatively small expansion, given the existing program's scope.",
+    "reasoning": "The provided article directly supports the claim that expanding Medicaid in New Jersey due to Obamacare was a relatively small expansion, considering the existing program's size.",
     "sources_summary": [
-      "**Yes, pay for CEOs has far outpaced compensation for ... - PolitiFact:** PolitiFact confirms that CEO compensation rose over 1,000% since 1978, while average worker compensation only rose 11.9%."
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** States that expanding Medicaid in New Jersey due to Obamacare was a relatively small expansion given the existing program."
     ]
   },
   {
-    "fact": "Says her accomplishments include \"a fiscally responsible budget agreement that controls state spending.\"",
+    "fact": "Says a federal judge \"sanctions Tennessee ‘birther’ lawyer … for bringing a frivolous lawsuit.\"",
     "verdict": "True",
-    "collective_summary": "Chris Telfer, an Oregon Senator, claimed that one of her accomplishments in the 2012 session was \"a fiscally responsible budget agreement that controls state spending.\"",
-    "reasoning": "Both articles confirm that Chris Telfer claimed that one of her accomplishments was \"a fiscally responsible budget agreement that controls state spending.\"",
+    "collective_summary": "Both articles confirm that a federal judge sanctioned a Tennessee \"birther\" lawyer for filing a frivolous lawsuit.",
+    "reasoning": "Both articles explicitly state that a federal judge sanctioned a Tennessee \"birther\" lawyer for bringing a frivolous lawsuit.",
     "sources_summary": [
-      "**chris telfer - oregonlive.com:** Confirms Chris Telfer claimed a fiscally responsible budget agreement that controls state spending as one of her accomplishments in the 2012 session.",
-      "**Fake-News-Detection-System/datasets/train.csv at master ...:** Confirms Chris Telfer claimed a fiscally responsible budget agreement that controls state spending as one of her accomplishments."
-    ]
-  },
-  {
-    "fact": "Says President Obama’s deal \"allows Iran to produce a nuclear weapon.\"",
-    "verdict": "False",
-    "collective_summary": "The provided article snippet indicates the claim that President Obama's deal allows Iran to produce a nuclear weapon is false.",
-    "reasoning": "The article is from a dataset of fake news detection and directly labels the claim as false.",
-    "sources_summary": [
-      "**Fake-News-Detection-System/datasets/train.csv at master ...:** This dataset labels the claim that President Obama's deal allows Iran to produce a nuclear weapon as false."
-    ]
-  },
-  {
-    "fact": "Says \"Donald Trump says climate change is a hoax invented by the Chinese.\"",
-    "verdict": "True",
-    "collective_summary": "Donald Trump did say that climate change is a hoax invented by the Chinese.",
-    "reasoning": "The article from Politifact confirms that Donald Trump did say that climate change is a hoax invented by the Chinese.",
-    "sources_summary": [
-      "**Yes, Donald Trump did call climate change a Chinese hoax - PolitiFact:** Confirms that Donald Trump did say that climate change is a hoax invented by the Chinese."
-    ]
-  },
-  {
-    "fact": "\"At least 450,000 ballots in the key states ... miraculously only have a mark for Joe Biden on them, and no other candidate.\"",
-    "verdict": "False",
-    "collective_summary": "PolitiFact has investigated and rated as false the claim that at least 450,000 ballots in key states miraculously only have a mark for Joe Biden on them, with no other candidate selected.",
-    "reasoning": "PolitiFact directly addresses the claim and rates it as false. The claim was originally made by Sidney Powell and appears to have originated from a tweet by the editor of a conservative news website.",
-    "sources_summary": [
-      "**Fact-checking Sidney Powell's claim that 450,000 ballots ... - PolitiFact:** PolitiFact rates as false the claim that 450,000 ballots only marked for Biden were found in key states.",
-      "**Sidney Powell - PolitiFact:** PolitiFact's core principles are independence, transparency, fairness, thorough reporting and clear writing."
-    ]
-  },
-  {
-    "fact": "\"More than 70 percent of American adults have committed a crime that could lead to imprisonment.\"",
-    "verdict": "True",
-    "collective_summary": "Multiple sources cite estimates that over 70% of American adults have committed a crime that could lead to imprisonment, with reasons ranging from illicit drug use to traffic violations. This statistic is often used to highlight the extent of over-criminalization.",
-    "reasoning": "The claim is supported by multiple sources, including a Politifact article and references to legal experts like Stephen Carter and Douglas Husak. These sources attribute the high percentage to the broad range of activities that could technically lead to imprisonment, such as drug use or traffic violations.",
-    "sources_summary": [
-      "**Watch out, 70% of us have done something that could put ... - PolitiFact:** PolitiFact confirms that the claim that over 70% of American adults have committed a crime punishable by imprisonment is mostly true.",
-      "**Law Puts Us All in Same Danger as Eric Garner - Bloomberg:** The article cites estimates that more than 70 percent of American adults have committed a crime that could lead to imprisonment.",
-      "**Why Plead the 5th? |:** This article references the statistic that more than 70 percent of American adults have committed a crime that could lead to imprisonment.",
-      "**We Need Fewer Laws: Over-Criminalization Hurts the Innocent and ...:** This article cites estimates that more than 70 percent of American adults have committed a crime that could lead to imprisonment.",
-      "**How much jail time do you think Trump will receive? : r/:** This Reddit post references the Politifact article about the claim.",
-      "**Hunter Biden found guilty in all counts : r/NPR:** This Reddit post references the Politifact article about the claim."
-    ]
-  },
-  {
-    "fact": "Tampa Bay is \"leading the state in jobs creation.\"",
-    "verdict": "False",
-    "collective_summary": "The article from PolitiFact indicates that the claim \"Tampa Bay is 'leading the state in jobs creation'\" is barely true.",
-    "reasoning": "The provided article from PolitiFact directly addresses the claim about Tampa Bay leading the state in job creation, rating it as \"barely true.\" This suggests that while there may be some job creation in Tampa Bay, the claim of leading the state is an exaggeration or not entirely accurate.",
-    "sources_summary": [
-      "**Dick Greco says he reduced Tampa's debt payments ... - PolitiFact:** This article from PolitiFact rates the claim that \"Tampa Bay is 'leading the state in jobs creation'\" as barely true."
-    ]
-  },
-  {
-    "fact": "Says Raphael Warnock has \"said we need to open up the prisons\" and \"eliminate cash bail.\"",
-    "verdict": "Mostly False",
-    "collective_summary": "The claim that Raphael Warnock wants to \"open up the prisons\" and \"eliminate cash bail\" is rated as mostly false. While Warnock supports ending cash bail for minor offenses, he would maintain the requirement for serious crimes.",
-    "reasoning": "PolitiFact has rated the claim as mostly false. Warnock supports ending cash bail for minor offenses, but not for serious crimes.",
-    "sources_summary": [
-      "**Fact-check: Does Georgia Senate candidate want to 'open up ...:** PolitiFact rates the claim that Warnock wants to \"open up the prisons\" and \"eliminate cash bail\" as mostly false, noting he supports ending cash bail only for minor offenses.",
-      "**Kelly Loeffler - PolitiFact:** This article references the fact-check of Loeffler's claim about Warnock."
-    ]
-  },
-  {
-    "fact": "The IRS is going to be \"in charge\" of \"a huge national database\" on health care that will include Americans’ \"personal, intimate, most close-to-the-vest-secrets.\"",
-    "verdict": "False",
-    "collective_summary": "Michele Bachmann made the claim that the IRS would be in charge of a huge national database on health care that would include Americans' personal, intimate secrets. Fact checkers have rated Bachmann as one of the most inaccurate Republican presidential candidates.",
-    "reasoning": "The claim is attributed to Michele Bachmann, who has a history of making inaccurate statements. The fact that fact-checkers have rated her as one of the most inaccurate Republican presidential candidates suggests that this claim is likely false.",
-    "sources_summary": [
-      "**POLITICAL FACT CHECKER: 'We Will Miss Michele Bachmann':** Discusses Michele Bachmann's retirement and her history of inaccurate statements, according to fact-checkers.",
-      "**Michele Bachmann - PolitiFact:** Provides background information on Michele Bachmann, a former U.S. Congresswoman for Minnesota.",
-      "**Fake-News-Detection-System/datasets/train.csv at master:** Contains the claim that the IRS will be in charge of a huge national database on health care."
-    ]
-  },
-  {
-    "fact": "\"Newly discovered video shows late night deliveries of tens of thousands of illegal ballots 8 hours after deadline.\"",
-    "verdict": "False",
-    "collective_summary": "The claim that a newly discovered video shows late-night deliveries of tens of thousands of illegal ballots 8 hours after the deadline is false. Election officials have confirmed that ballots were delivered to the Detroit counting hub early Wednesday morning and were legally processed. The 8 p.m. Election Day deadline was for voters to return ballots, not for ballots to be delivered to the TCF Center.",
-    "reasoning": "The claim is based on a video that has been used to recycle old misinformation about Michigan’s presidential election. Election officials from both political parties and international observers have repeatedly stated that the election went well nationwide without serious irregularities. The deadline was for voters to cast ballots, not for the ballots to be delivered or counted.",
-    "sources_summary": [
-      "**Article 1:** States that the video is being used to recycle old misinformation about Michigan’s presidential election.",
-      "**Article 2:** Confirms that ballots were delivered to the Detroit counting hub early Wednesday morning and were legally processed.",
-      "**Article 3:** Refers to the Gateway Pundit, the source of the claim, as loud, shrill, and unknown.",
-      "**Article 4:** Refers to the claim in the context of 2020 election fraud.",
-      "**Article 5:** Refers to the claim in the context of the TCF Center Election Fraud.",
-      "**Article 6:** Refers to the claim in the context of the TCF Center Election Fraud."
-    ]
-  },
-  {
-    "fact": "Says Donald Trump \"literally has no plans to make higher education more affordable.\"",
-    "verdict": "True",
-    "collective_summary": "PolitiFact has fact-checked the claim that Donald Trump \"literally has no plans to make higher education more affordable\" and the Github dataset on fake news detection also includes this claim.",
-    "reasoning": "The PolitiFact article directly addresses the claim, suggesting it has been investigated for its accuracy. The inclusion of the statement in a fake news detection dataset further supports the idea that the claim has been scrutinized.",
-    "sources_summary": [
-      "**Roberta Lange - PolitiFact:** PolitiFact fact-checked the claim that Donald Trump \"literally has no plans to make higher education more affordable.\"",
-      "**Fake-News-Detection-System/datasets/train.csv at master ...:** A fake news detection dataset includes the claim \"Says Donald Trump literally has no plans to make higher education more affordable.\""
-    ]
-  },
-  {
-    "fact": "Post says a recent bill passed, and \"We get another stimulus check for $2500 at July 30, 2021\"",
-    "verdict": "False",
-    "collective_summary": "A social media post claimed that a new stimulus bill had passed, entitling individuals to a $2,500 check by July 30, 2021. This claim is false; while a fourth stimulus check was under consideration, it had not been implemented at the time of the post.",
-    "reasoning": "The provided articles directly address the claim that a stimulus check for $2500 would be issued on July 30, 2021. The articles state that this claim, circulating on social media, is false. While a fourth stimulus check was being considered, it had not been approved or implemented.",
-    "sources_summary": [
-      "**Social media post about another stimulus check from the ... - PolitiFact:** Debunks the claim that a stimulus check for $2500 would be issued on July 30, 2021, stating that while a fourth stimulus check was being considered, it had not been implemented."
-    ]
-  },
-  {
-    "fact": "With voting by mail, \"you get thousands and thousands of people sitting in somebody's living room, signing ballots all over the place.\"",
-    "verdict": "False",
-    "collective_summary": "The claim that with voting by mail, \"you get thousands and thousands of people sitting in somebody's living room, signing ballots all over the place\" is false. News articles indicate that voter fraud is rare with mail-in voting, and there is no evidence to support the claim.",
-    "reasoning": "The statement made by Trump is not supported by evidence. Studies have shown that voter fraud is rare, whether through in-person voting or voting by mail. While mail-in ballots can be rejected due to mistakes, there is no evidence of widespread fraud as the statement suggests.",
-    "sources_summary": [
-      "**Donald Trump's dubious claim that 'thousands' are ... - PolitiFact:** Voter fraud is rare, and Trump's commission on election integrity found no significant patterns of fraud.",
-      "**California rejected 100,000 mail-in ballots because of mistakes ...:** About 1.5% of mail-in ballots were disqualified in California due to mistakes, but there was no evidence of significant fraud.",
-      "**Commentary: Trump doesn't like mail-in voting, but it's not his call ...:** There is no real evidence to support the charge that mail-in ballots lead to fraud.",
-      "**Column: Trump doesn't like mail-in voting, but it's not his call - Los ...:** There is no real evidence to support the charge that mail-in ballots lead to fraud.",
-      "**Trump, who has lied about voting for years, disparages voting by ...:** Trump claims mail ballots are cheaters and have tremendous potential for voter fraud.",
-      "**Trump urges Republicans to 'fight very hard' against voting by mail ...:** Trump falsely suggests that mail-in voting would lead to widespread voter fraud, despite voter fraud being extremely rare."
-    ]
-  },
-  {
-    "fact": "\"In the entire public school system in Camden last year, only three students graduated college ready.\"",
-    "verdict": "Mostly True",
-    "collective_summary": "Several sources reference the claim that \"In the entire public school system in Camden last year, only three students graduated college ready.\" and label it as mostly true.",
-    "reasoning": "The claim appears in multiple fact-checking articles on Politifact, where it is referenced as \"mostly true.\" This suggests that while the exact number might be debated, the general sentiment of the claim is accurate.",
-    "sources_summary": [
-      "**Article 1:** States the claim \"In the entire public school system in Camden last year, only three students graduated college ready.\" is true.",
-      "**Articles 2-6:** Reference the claim \"In the entire public school system in Camden last year, only three students graduated college ready.\" and label it as mostly true."
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** Confirms the claim that a federal judge sanctioned a Tennessee \"birther\" lawyer for bringing a frivolous lawsuit.",
+      "**Tennessee Speaker Ramsey says Republicans delivered ... - PolitiFact:** Confirms the claim that a federal judge sanctioned a Tennessee \"birther\" lawyer for bringing a frivolous lawsuit."
     ]
   }
 ]

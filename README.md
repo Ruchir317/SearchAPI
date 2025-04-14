@@ -28,4 +28,10 @@ This project automates fact verification using Google's Custom Search API and Ge
 3. Run the verifier:
     ```
     python batch_fact_verifier.py --start 0 --end 5000
+
+    Or you can run
+
+    python run_and_push.py
+
+    Which will push the files to github for you
     ```

@@ -194,19 +194,9 @@ def log_error(index, fact, error):
         f.write(f"[{index}] {fact[:100]}... → {str(error)}\n")
 
 # MAIN
-if __name__ == "__main__":
+def run_verification_batch(start_idx=0, end_idx=10):
     initial_done = load_checkpoint()
-    
-    # 🛠️ CLI: python batch_fact_verifier.py --start 0 --end 5000
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--start", type=int, default=0, help="Start index (inclusive)")
-    parser.add_argument("--end", type=int, default=10, help="End index (exclusive)")
-    args = parser.parse_args()
 
-    start_idx = args.start
-    end_idx = args.end
-
-    # ✅ Load only the needed slice
     all_statements = load_statements(INPUT_FILE, end_idx)
     statements = [(i, fact) for i, fact in all_statements if start_idx <= i < end_idx]
 
@@ -221,5 +211,17 @@ if __name__ == "__main__":
 
     save_checkpoint(done_ids)
     save_all_outputs()
+
     print(f"\n✅ Done! Processed range {start_idx}–{end_idx}")
     print(f"🧠 Previously done: {len(initial_done)} | Newly saved: {len(done_ids) - len(initial_done)}")
+
+
+# CLI entry point
+if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--start", type=int, default=0)
+    parser.add_argument("--end", type=int, default=10)
+    args = parser.parse_args()
+
+    run_verification_batch(start_idx=args.start, end_idx=args.end)
