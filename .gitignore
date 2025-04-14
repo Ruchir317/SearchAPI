@@ -1,0 +1,14 @@
+# Python virtual environments
+venv/
+__pycache__/
+
+# API keys and secrets
+.env
+
+# VSCode and Jupyter
+.vscode/
+*.ipynb_checkpoints/
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
