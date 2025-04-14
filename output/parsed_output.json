@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "fact": "\"Bennie Thompson actively cheer-led riots in the ’90s.\"",
+    "verdict": "False",
+    "collective_summary": "The claim that Bennie Thompson actively cheer-led riots in the ’90s is false, according to Politifact.",
+    "reasoning": "Politifact has rated the claim as false. The article summary does not provide any information to support the claim.",
+    "sources_summary": [
+      "**Matt Gaetz - PolitiFact:** Politifact rated the claim that Bennie Thompson actively cheer-led riots in the ’90s as false."
+    ]
+  },
+  {
+    "fact": "Says Maggie Hassan was \"out of state on 30 days over the last three months.\"",
+    "verdict": "True",
+    "collective_summary": "According to a press release, Maggie Hassan was \"out of state on 30 days over the last three months.\"",
+    "reasoning": "The article from Politifact directly addresses the claim that Maggie Hassan was out of state for 30 days over three months, attributing the statement to a press release.",
+    "sources_summary": [
+      "**How many days was Maggie Hassan out of New ... - PolitiFact:** States Maggie Hassan was \"out of state on 30 days over the last three months.\""
+    ]
+  },
+  {
+    "fact": "\"BUSTED: CDC Inflated COVID Numbers, Accused of Violating Federal Law\"",
+    "verdict": "False",
+    "collective_summary": "The claim that the CDC inflated COVID numbers and violated federal law is based on a flawed report. The CDC issued guidance on how to complete COVID-19 death certificates, which was not a significant departure from previous guidelines.",
+    "reasoning": "The articles provided refute the claim that the CDC inflated COVID numbers. One article specifically addresses the claim and states that it is based on a flawed report. The other article mentions the claim in passing but does not provide any evidence to support it.",
+    "sources_summary": [
+      "**factcheck.org:** Addresses the claim that the CDC inflated COVID numbers, stating it's based on a flawed report and misrepresents CDC data.",
+      "**newsfollowup.com:** Mentions the claim in the context of a timeline, but does not provide any evidence to support it."
+    ]
+  },
+  {
+    "fact": "\"There are actually only 30 countries that practice birthright citizenship.\"",
+    "verdict": "True",
+    "collective_summary": "The consensus from the provided articles is that the claim \"There are actually only 30 countries that practice birthright citizenship\" is true. This statement was made by S.E. Cupp and has been fact-checked by PolitiFact.",
+    "reasoning": "Multiple articles confirm the claim that only about 30 countries practice birthright citizenship, with the United States being noted as an anomaly in this regard. PolitiFact has rated this statement as true.",
+    "sources_summary": [
+      "**S.E. Cupp: Only about 30 other countries offer birthright ... - PolitiFact:** This article confirms that S.E. Cupp stated that only about 30 countries practice birthright citizenship.",
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** This source lists the claim \"There are actually only 30 countries that practice birthright citizenship\" as false.",
+      "**S.E. Cupp - PolitiFact:** This article confirms that PolitiFact rated S.E. Cupp's statement about 30 countries practicing birthright citizenship as true.",
+      "**Fact-checking presidential candidates on the Aug. 16 ... - PolitiFact:** This article confirms that PolitiFact rated the statement about 30 countries practicing birthright citizenship as true."
+    ]
+  },
+  {
+    "fact": "\"My husband and I have never gotten a penny of money from the farm.\"",
+    "verdict": "False",
+    "collective_summary": "Michele Bachmann claimed that she and her husband have never received a penny from the farm. However, financial disclosure forms indicate that she has received income from the Bachmann Family Farm LP, and the farm received nearly $260,000 in federal subsidies between 1995 and 2008.",
+    "reasoning": "Bachmann's financial disclosure forms show that she received income from the Bachmann Family Farm LP. The farm also received nearly $260,000 in federal subsidies between 1995 and 2008.",
+    "sources_summary": [
+      "**Bachmann's Waterloo - FactCheck.org:** Bachmann claimed she and her husband never received money from the farm, but records show the farm received subsidies.",
+      "**Rep. Michele Bachmann says she's never received a ... - PolitiFact:** Bachmann claimed she and her husband never received money from the farm, but records show she has a stake in it and received income from it.",
+      "**Bachmann's inaccurate statements emerge in GOP 2012 race | MPR ...:** Bachmann claimed she and her husband never received money from the farm.",
+      "**Bachmann Income Disclosure Lists Income From Farm That Got ...:** Bachmann claimed she never received income from the family farm, but her financial disclosures show otherwise.",
+      "**Michele Bachmann launches 2012 presidential bid | Michele ...:** Bachmann claimed her family never directly profited from farm subsidies, but financial disclosure forms show she received income from the farm."
+    ]
+  },
+  {
+    "fact": "\"If you go strictly by the numbers, crime is down across the board. Last year we had a 10 percent decrease in the most serious crimes.\"",
+    "verdict": "True",
+    "collective_summary": "The provided source states that crime is down across the board, with a 10 percent decrease in the most serious crimes last year.",
+    "reasoning": "The article explicitly states that crime is down across the board, with a 10 percent decrease in the most serious crimes last year.",
+    "sources_summary": [
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** The article claims that crime is down across the board, with a 10 percent decrease in the most serious crimes last year."
+    ]
+  },
+  {
+    "fact": "\"The American people say, don't touch Social Security, don't touch Medicare, don't cut defense. That's 84 percent of the federal budget.\"",
+    "verdict": "False",
+    "collective_summary": "The provided article includes the claim, but does not provide any evidence to support it.",
+    "reasoning": "The article directly quotes the claim, but it does not offer any data or analysis to verify the accuracy of the statement that Social Security, Medicare, and defense spending constitute 84% of the federal budget. Without additional evidence, the claim cannot be verified as true.",
+    "sources_summary": [
+      "**The Insider | InsideDefense.com:** Quotes the claim about Social Security, Medicare, and defense spending making up 84% of the federal budget, but does not verify it."
+    ]
+  },
+  {
+    "fact": "\"Since 1978, CEO compensation rose over 1,000% and only 11.9% for average workers.\"",
+    "verdict": "True",
+    "collective_summary": "The claim that CEO compensation rose over 1,000% since 1978 while average worker compensation only rose 11.9% is accurate. This is based on a report that reviewed pay for CEOs and average workers at America's top 350 firms through 2018.",
+    "reasoning": "PolitiFact has rated the claim as true, based on a study that found CEO compensation rose 1,007.5% between 1978 and 2018, while average worker pay increased by only 11.9%.",
+    "sources_summary": [
+      "**Yes, pay for CEOs has far outpaced compensation for ... - PolitiFact:** PolitiFact confirms that CEO compensation rose over 1,000% since 1978, while average worker compensation only rose 11.9%."
+    ]
+  }
+]
