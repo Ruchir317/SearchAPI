@@ -5,7 +5,7 @@ from batch_fact_verifier import run_verification_batch
 
 # === CONFIG ===
 start = 0
-end = 50
+end = 5000
 commit_message = f"Auto-push results for range {start}-{end}"
 
 # === Step 1: Run the batch verifier directly
