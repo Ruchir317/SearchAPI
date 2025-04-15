@@ -42,8 +42,13 @@ def load_checkpoint():
     return set()
 
 def save_checkpoint(done_ids):
+    existing = set()
+    if os.path.exists(CHECKPOINT_FILE):
+        with open(CHECKPOINT_FILE, "r", encoding="utf-8") as f:
+            existing = set(json.load(f))
+    merged = sorted(existing.union(done_ids))
     with open(CHECKPOINT_FILE, "w", encoding="utf-8") as f:
-        json.dump(list(done_ids), f, indent=2)
+        json.dump(merged, f, indent=2)
 
 # INPUT DATA
 def load_statements(file_path, limit):
@@ -237,8 +242,17 @@ def save_all_outputs():
 
 # ERROR LOGGING
 def log_error(index, fact, error):
-    with open(ERROR_LOG_FILE, "a", encoding="utf-8") as f:
-        f.write(f"[{index}] {fact[:100]}... → {str(error)}\n")
+    new_line = f"[{index}] {fact[:100]}... → {str(error)}\n"
+
+    # Avoid duplicates
+    existing_lines = set()
+    if os.path.exists(ERROR_LOG_FILE):
+        with open(ERROR_LOG_FILE, "r", encoding="utf-8") as f:
+            existing_lines = set(f.readlines())
+
+    if new_line not in existing_lines:
+        with open(ERROR_LOG_FILE, "a", encoding="utf-8") as f:
+            f.write(new_line)
 
 # MAIN
 def run_verification_batch(start_idx=0, end_idx=10):
