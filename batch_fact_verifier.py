@@ -2,7 +2,9 @@ import os
 import json
 import re
 import time
+import requests
 import argparse
+import multiprocessing
 from newspaper import Article
 from dotenv import load_dotenv
 from googleapiclient.discovery import build
@@ -55,15 +57,36 @@ def google_search(query, api_key, cse_id, num=10):
     return res.get("items", [])
 
 # ARTICLE SUMMARIZATION
-def summarize_article(url):
+def _extract_summary(url, return_dict):
     try:
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+
         article = Article(url)
-        article.download()
+        article.set_html(response.text)
         article.parse()
         article.nlp()
-        return article.summary
-    except:
+
+        return_dict["summary"] = article.summary
+    except Exception as e:
+        return_dict["summary"] = None
+
+def summarize_article(url, timeout=10):
+    manager = multiprocessing.Manager()
+    return_dict = manager.dict()
+
+    proc = multiprocessing.Process(target=_extract_summary, args=(url, return_dict))
+    proc.start()
+    proc.join(timeout)
+
+    if proc.is_alive():
+        print(f"⛔ Timeout exceeded for: {url}")
+        proc.terminate()
+        proc.join()
         return None
+
+    return return_dict.get("summary", None)
 
 def filter_top_articles(articles, top_k=10):
     scored = []

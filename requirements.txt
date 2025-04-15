@@ -6,3 +6,6 @@ newspaper3k
 tqdm
 nltk
 lxml_html_clean
+scikit-learn 
+matplotlib 
+seaborn

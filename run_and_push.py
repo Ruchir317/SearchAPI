@@ -4,8 +4,8 @@ from datetime import datetime
 from batch_fact_verifier import run_verification_batch, save_all_outputs
 
 # === CONFIG ===
-start = 5000
-end = 10000
+start = 0
+end = 999
 commit_message = f"Auto-push results for range {start}-{end}"
 
 # === Step 1: Run the batch verifier directly
