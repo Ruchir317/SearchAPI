@@ -11,6 +11,7 @@ from googleapiclient.discovery import build
 from google import genai
 from google.genai import types
 from tqdm import tqdm
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import nltk
 
 load_dotenv()
@@ -255,22 +256,25 @@ def log_error(index, fact, error):
             f.write(new_line)
 
 # MAIN
-def run_verification_batch(start_idx=0, end_idx=10):
+def run_verification_batch(start_idx=0, end_idx=10, max_workers=4):
     initial_done = load_checkpoint()
-
     all_statements = load_statements(INPUT_FILE, end_idx)
     statements = [(i, fact) for i, fact in all_statements if start_idx <= i < end_idx]
-
     done_ids = load_checkpoint()
 
-    for index, fact in tqdm(statements, total=len(statements)):
+    print(f"🧵 Running with {max_workers} threads...")
+
+    def safe_process(index_fact):
+        index, fact = index_fact
         try:
             process_fact(index, fact, done_ids)
             save_checkpoint(done_ids)
-            save_all_outputs()  # ✅ Save after each successful iteration
+            save_all_outputs()
         except Exception as e:
             log_error(index, fact, e)
-            continue
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        list(tqdm(executor.map(safe_process, statements), total=len(statements)))
 
     print(f"\n✅ Done! Processed range {start_idx}–{end_idx}")
     print(f"🧠 Previously done: {len(initial_done)} | Newly saved: {len(done_ids) - len(initial_done)}")
@@ -278,6 +282,10 @@ def run_verification_batch(start_idx=0, end_idx=10):
 # CLI entry point
 if __name__ == "__main__":
     import argparse
+    from multiprocessing import freeze_support
+
+    freeze_support()  # Optional, but good to include on Windows
+
     parser = argparse.ArgumentParser()
     parser.add_argument("--start", type=int, default=0)
     parser.add_argument("--end", type=int, default=10)

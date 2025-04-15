@@ -11542,5 +11542,154 @@
       "**The American Presidency Project:** Transcript of a Republican debate where the claim was made.",
       "**Github:** This source contains the claim in a dataset."
     ]
+  },
+  {
+    "fact": "\"In Trump’s first year as president, job growth slowed to a six-year low.\"",
+    "verdict": "False",
+    "collective_summary": "The claim that job growth slowed to a six-year low in Trump's first year is rated as half-true by Politifact.",
+    "reasoning": "The provided information indicates that the claim is only partially true, as determined by Politifact. The snippet does not provide further details to fully support the claim.",
+    "sources_summary": [
+      "**Democratic National Committee - PolitiFact:** States that the claim \"In Trump's first year as president, job growth slowed to a six-year low\" is rated as half-true."
+    ]
+  },
+  {
+    "fact": "\"The richest 1 percent have more financial wealth than the bottom 95 percent combined.\"",
+    "verdict": "False",
+    "collective_summary": "The claim that the richest 1 percent have more financial wealth than the bottom 95 percent combined is false. While Michael Moore stated this claim, data indicates that the top 1 percent own less financial wealth than the bottom 95 percent.",
+    "reasoning": "Multiple articles reference Michael Moore making the claim, but one article directly refutes it with data. According to Kennickell's measurement of \"financial wealth,\" the top 1 percent own 31.5 percent of the financial wealth, which is less than the 40.2 percent for the bottom 95 percent.",
+    "sources_summary": [
+      "**Michael Moore movie says that top 1 percent owns more ... - PolitiFact:** This article states that the top 1 percent own 31.5 percent of the financial wealth, less than the 40.2 percent for the bottom 95 percent.",
+      "**Michael Moore: Capitalism has proven it's failed - CNN.com:** This article quotes Michael Moore stating that the richest 1 percent have more financial wealth than the bottom 95 percent combined.",
+      "**Michael Moore says 400 Americans have more wealth ... - PolitiFact:** This article references Michael Moore's claim that the richest 1 percent have more financial wealth than the bottom 95 percent combined.",
+      "**Video: On new show, Jay Leno calls Michael Moore's 'Capitalism: A ...:** This article quotes Michael Moore stating that the richest 1 percent have more financial wealth than the bottom 95 percent combined.",
+      "**Surprise! Michael Moore Is A Filthy Rich Hypocrite:** This article quotes Michael Moore stating that the richest 1 percent have more financial wealth than the bottom 95 percent combined.",
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** This article lists the claim as false."
+    ]
+  },
+  {
+    "fact": "\"Incoming House Speaker Dean Cannon and incoming Senate President Mike Haridopolos have said they plan to champion efforts next legislative session to allow oil rigs off Florida's coast.\"",
+    "verdict": "Cannot Verify",
+    "collective_summary": "There is no relevant information in the provided source to verify the claim.",
+    "reasoning": "The provided article discusses a fake news detection system and does not contain any information about Dean Cannon, Mike Haridopolos, oil rigs, or Florida's coast. Therefore, it is impossible to verify the claim using this source.",
+    "sources_summary": [
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** This article discusses a fake news detection system and is not relevant to the claim."
+    ]
+  },
+  {
+    "fact": "\"This administration is slashing the Navy to pay for more Obamacare.\"",
+    "verdict": "True",
+    "collective_summary": "The article claims that the current administration is reducing the Navy's budget to fund Obamacare.",
+    "reasoning": "The provided article directly states that the administration is \"slashing the Navy to pay for more Obamacare.\"",
+    "sources_summary": [
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** Claims the administration is cutting the Navy budget to fund Obamacare."
+    ]
+  },
+  {
+    "fact": "Seventy-two percent of Georgians did not have a chance to finish college.",
+    "verdict": "False",
+    "collective_summary": "The claim that seventy-two percent of Georgians did not have a chance to finish college is not directly supported by the provided articles. While one article mentions that seventy-two percent of students enrolled in for-profit colleges in Georgia are women, and another references seventy-two high school, college, and graduate students completing internships, none of the articles explicitly state that 72% of Georgians did not have the opportunity to finish college.",
+    "reasoning": "The articles provided do not support the claim that 72% of Georgians did not have the chance to finish college. The articles discuss student debt, internships, education budgets, youth incarceration, and master's degrees in cybersecurity, but none of them provide data on the percentage of Georgians who did not have the opportunity to complete college.",
+    "sources_summary": [
+      "**How Student Debt Worsens Racial Inequality - Georgia Budget and ...:** Discusses student debt among Georgia college graduates and its impact on racial inequality.",
+      "**Seventy-Two High School, College and Graduate Students ...:** Reports on the completion of summer internships by 72 high school, college, and graduate students at the NYC Department of Design and Construction.",
+      "**Georgia Education Budget Primer for State Fiscal Year 2024 ...:** Provides an overview of Georgia's education budget for 2024.",
+      "**Why Youth Incarceration Fails: An Updated Review of the Evidence ...:** Examines the failures of youth incarceration and its impact on education.",
+      "**Does a masters degree in cybersecurity pull any weight pertaining to ...:** Discusses the value of a master's degree in cybersecurity.",
+      "**2017 Justice Gap Report | LSC - Legal Services Corporation ...:** Reports that most American adults with family incomes below 125% of FPL do not have any college education."
+    ]
+  },
+  {
+    "fact": "The national debt grew an estimated $15 billion last weekend.",
+    "verdict": "False",
+    "collective_summary": "The claim that the national debt grew an estimated $15 billion last weekend is not supported by the provided articles. The articles discuss budget deficits and spending in various contexts, including California's budget deficit, federal budget deficits, and the costs of immigration enforcement. Some articles mention figures of $15 billion, but these refer to specific areas like California's budget problem or increases in outlays for refundable tax credits, not an overall increase in the national debt over a single weekend.",
+    "reasoning": "The articles provided do not support the claim that the national debt grew by $15 billion last weekend. While some articles mention a $15 billion figure, they refer to specific budget issues, such as California's budget deficit or increases in federal tax credit outlays, not an overall increase in the national debt.",
+    "sources_summary": [
+      "**The 2024-25 Budget: Deficit Update:** Discusses California's budget deficit, which has grown by $15 billion.",
+      "**Monthly Budget Review: February 2025 | Congressional Budget Office:** Reports on the federal budget deficit, estimating a $308 billion deficit in February 2025 and mentioning a $15 billion increase in outlays for refundable tax credits.",
+      "**What Are Interest Costs on the National Debt?:** Explains the factors determining the government's interest costs, such as interest rates on U.S. Treasury securities and the amount of debt held by the public.",
+      "**California budget deficit balloons to $73 billion- CalMatters:** Reports on California's growing budget deficit, projecting a $15 billion shortfall.",
+      "**The Cost of Immigration Enforcement and Border Security ...:** Discusses the federal government's spending on immigration enforcement and border security.",
+      "**The Fiscal Impact of the Harris and Trump Campaign Plans-Mon, 10 ...:** Analyzes the potential fiscal impact of policy changes proposed by Vice President Kamala Harris and former President Donald Trump."
+    ]
+  },
+  {
+    "fact": "Says the Republican \"state convention is actually larger than the Republican National Convention.\"",
+    "verdict": "True",
+    "collective_summary": "According to Politifact, the claim that the Republican state convention is larger than the Republican National Convention is true.",
+    "reasoning": "The provided articles confirm the statement and Politifact has rated the claim as true.",
+    "sources_summary": [
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** This article contains the claim that the Republican state convention is larger than the Republican National Convention.",
+      "**Mark Strama says Rush Limbaugh made it clear he'd ... - PolitiFact:** This article references the claim and states it is \"true mostly-true\"."
+    ]
+  },
+  {
+    "fact": "\"(Deborah) Ross defends those who want to burn the American flag, and even called efforts to ban flag-burning ‘ridiculous,’ yet refused to help a disabled veteran fly the flag.\"",
+    "verdict": "False",
+    "collective_summary": "The provided articles do not contain information to support the claim that Deborah Ross defends flag burning or refused to help a disabled veteran fly the flag. The articles provide general information about Deborah Ross and fact-checking.",
+    "reasoning": "The articles provided do not contain any information about Deborah Ross's stance on flag burning or her interactions with disabled veterans. Therefore, there is no evidence to support the claim.",
+    "sources_summary": [
+      "**Deborah Ross - PolitiFact:** Provides general information about Deborah Ross and PolitiFact's fact-checking mission.",
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** Describes a system for detecting fake news."
+    ]
+  },
+  {
+    "fact": "\"One of the first nurses to receive the vaccine in AL is now dead.\"",
+    "verdict": "False",
+    "collective_summary": "The claim that one of the first nurses to receive the vaccine in Alabama is now dead is false. The Alabama Department of Public Health has stated that no one who received the COVID-19 vaccine in Alabama has died.",
+    "reasoning": "Several fact-checking articles directly address and debunk the claim that a nurse in Alabama died after receiving the COVID-19 vaccine. The Alabama Department of Public Health explicitly denied the claim.",
+    "sources_summary": [
+      "**Alabama Officials Debunk False Claim of COVID-19 Vaccine Death ...:** This article directly refutes the claim, stating that no one in Alabama who received the vaccine has died.",
+      "**An Alabama nurse did not die after taking the coronavirus ... - PolitiFact:** This article confirms that the Alabama Department of Public Health stated that no recipients of the Pfizer coronavirus vaccine had died.",
+      "**Identification of Rumor Sources in Social Network: Reverse ...:** This article references the false claim as an example of misinformation.",
+      "**December | 2020 | The Overspill: when there's more that I want to say:** This article mentions the false claim circulating on social media."
+    ]
+  },
+  {
+    "fact": "\" 'Scary' fact about our national debt. In 1791 it was $75 million. Today, it rises by that amount in about an hour.\"",
+    "verdict": "True",
+    "collective_summary": "The provided article confirms the claim that the national debt in 1791 was $75 million and currently increases by that amount in approximately one hour.",
+    "reasoning": "The article snippet directly quotes the claim and labels it as true. This confirms the accuracy of the statement regarding the national debt's historical value and current rate of increase.",
+    "sources_summary": [
+      "**Fake-News-Detection-System/datasets/train.csv at master ...:** The article confirms the claim about the national debt, stating it was $75 million in 1791 and now increases by that amount hourly."
+    ]
+  },
+  {
+    "fact": "\"New York consistently ranks as one of the worst voting turnout states in the nation.\"",
+    "verdict": "True",
+    "collective_summary": "The provided article confirms that New York consistently ranks as one of the worst voting turnout states in the nation. The article references a statement made by Andrea Stewart-Cousins, a top-ranking Democrat in the New York State Senate, and provides data showing New York's ranking in voter turnout.",
+    "reasoning": "The article directly supports the claim that New York consistently ranks as one of the worst voting turnout states in the nation. The article cites data showing New York's ranking in voter turnout in 2000.",
+    "sources_summary": [
+      "**New York consistently ranks low for voter turnout - PolitiFact:** Confirms New York consistently ranks as one of the worst voting turnout states in the nation, citing data and a statement from a New York State Senator."
+    ]
+  },
+  {
+    "fact": "\"Background checks have been unequivocally shown to reduce gun violence.\"",
+    "verdict": "False",
+    "collective_summary": "Research on the effectiveness of background checks in reducing gun violence is mixed. Some studies suggest they are somewhat effective, while others indicate little to no impact. The claim that background checks have been unequivocally shown to reduce gun violence is therefore not accurate.",
+    "reasoning": "PolitiFact has rated the claim that background checks have been unequivocally shown to reduce gun violence as \"Half True.\" Research on the effectiveness of background checks is mixed, with some studies suggesting they are somewhat effective and others indicating little to no impact.",
+    "sources_summary": [
+      "**PolitiFact: Do gun background checks work? What the research shows:** Research about background checks is mixed, with some suggesting they are somewhat effective in reducing gun violence and others suggesting little or no impact.",
+      "**Fact-checking presidential hopeful John Hickenlooper on ... - PolitiFact:** Discusses universal background checks and gun laws in various states.",
+      "**Do gun background checks work? What the research ... - PolitiFact:** Research about background checks is mixed, with some suggesting they are somewhat effective in reducing gun violence and others suggesting little or no impact."
+    ]
+  },
+  {
+    "fact": "\"The Ukrainian government just indicted the Burisma gas company & named Hunter Biden for accepting millions of dollars from a slush fund.\"",
+    "verdict": "False",
+    "collective_summary": "The claim that the Ukrainian government indicted Burisma and named Hunter Biden for accepting millions of dollars from a slush fund is false.",
+    "reasoning": "Politifact directly addresses the claim and rates it as false. Media Bias Fact Check also states the claim is false.",
+    "sources_summary": [
+      "**No, Ukraine didn't indict Burisma on Wednesday - PolitiFact:** This article directly refutes the claim that Ukraine indicted Burisma and named Hunter Biden.",
+      "**ZeroHedge - Bias and Credibility - Media Bias/Fact Check:** This article identifies the claim as false."
+    ]
+  },
+  {
+    "fact": "\"When Marcy Kaptur brought home $42 million for new manufacturing jobs, Dennis Kucinich voted 'no'.\"",
+    "verdict": "No Verdict",
+    "collective_summary": "The provided article mentions the claim but does not provide any information to verify its truthfulness.",
+    "reasoning": "The article from PolitiFact mentions the claim made in a campaign commercial but does not provide any information or context to verify whether Dennis Kucinich actually voted against a bill that brought $42 million for new manufacturing jobs.",
+    "sources_summary": [
+      "**Dennis Kucinich - PolitiFact:** This article mentions the claim in question as part of a campaign commercial but does not verify its accuracy."
+    ]
   }
 ]

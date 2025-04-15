@@ -24701,37 +24701,294 @@
     ]
   },
   {
-    "fact": "\"I balanced the budget for four straight years, paid off $405 billion in debt.\"",
+    "fact": "\"Incoming House Speaker Dean Cannon and incoming Senate President Mike Haridopolos have said they plan to champion efforts next legislative session to allow oil rigs off Florida's coast.\"",
     "articles": [
       {
-        "title": "Newt Gingrich repeats claim about his record of ... - PolitiFact",
-        "url": "https://www.politifact.com/factchecks/2011/dec/16/newt-gingrich/newt-gingrich-repeats-claim-about-his-record-balan/",
-        "snippet": "Dec 16, 2011 ... \"I balanced the budget for four straight years, paid off $405 billion in debt.\" at a Republican presidential debate – Thursday, December 15, ...",
-        "summary": "I balanced the budget for four straight years, paid off $405 billion in debt.\nThe claim that Gingrich \"balanced the budget for four straight years (and) paid off $405 billion in debt\" sounded familiar.\nIn that video, he said, \"for four years, we balanced the budget and paid off $405 billion in debt.\"\nFirst, the balanced budget.\nWe rate Gingrich’s claim False."
+        "title": "Fake-News-Detection-System/datasets/train.csv at master ...",
+        "url": "https://github.com/raj1603chdry/Fake-News-Detection-System/blob/master/datasets/train.csv",
+        "snippet": "Fake News Detection System for detecting whether news is fake or not. The model is trained using \"Liar, Liar Pants on Fire\": A New Benchmark Dataset for ...",
+        "summary": "Saved searches Use saved searches to filter your results more quicklyWe read every piece of feedback, and take your input very seriously.\nYou signed in with another tab or window.\nYou signed out in another tab or window.\nReload to refresh your session.\nYou switched accounts on another tab or window."
+      }
+    ]
+  },
+  {
+    "fact": "\"This administration is slashing the Navy to pay for more Obamacare.\"",
+    "articles": [
+      {
+        "title": "Fake-News-Detection-System/datasets/train.csv at master ...",
+        "url": "https://github.com/raj1603chdry/Fake-News-Detection-System/blob/master/datasets/train.csv",
+        "snippet": "... This administration is slashing the Navy to pay for more Obamacare. true,\"Since President Obama took office, our federal spending has increased by nearly 30 ...",
+        "summary": "Saved searches Use saved searches to filter your results more quicklyWe read every piece of feedback, and take your input very seriously.\nYou signed in with another tab or window.\nYou signed out in another tab or window.\nReload to refresh your session.\nYou switched accounts on another tab or window."
+      }
+    ]
+  },
+  {
+    "fact": "\"In Trump’s first year as president, job growth slowed to a six-year low.\"",
+    "articles": [
+      {
+        "title": "Democratic National Committee - PolitiFact",
+        "url": "https://www.politifact.com/personalities/democratic-national-committee/",
+        "snippet": "\"In Trump's first year as president, job growth slowed to a six-year low.\" half-true. By Louis Jacobson • January 16, 2018. Democratic National ...",
+        "summary": "Fact-checking journalism is the heart of PolitiFact.\nOur core principles are independence, transparency, fairness, thorough reporting and clear writing.\nThe reason we publish is to give citizens the information they need to govern themselves in a democracy."
+      }
+    ]
+  },
+  {
+    "fact": "Says the Republican \"state convention is actually larger than the Republican National Convention.\"",
+    "articles": [
+      {
+        "title": "Fake-News-Detection-System/datasets/train.csv at master ...",
+        "url": "https://github.com/raj1603chdry/Fake-News-Detection-System/blob/master/datasets/train.csv",
+        "snippet": "... Says the Annies List political group supports third-trimester abortions on ... state convention is actually larger than the Republican National Convention ...",
+        "summary": "Saved searches Use saved searches to filter your results more quicklyWe read every piece of feedback, and take your input very seriously.\nYou signed in with another tab or window.\nYou signed out in another tab or window.\nReload to refresh your session.\nYou switched accounts on another tab or window."
       },
       {
-        "title": "Newt Gingrich revises claim on balanced budgets ... - PolitiFact",
-        "url": "https://www.politifact.com/factchecks/2012/jan/27/newt-gingrich/newt-gingrich-revises-claim-balanced-budgets-impro/",
-        "snippet": "Jan 27, 2012 ... • \"I balanced the budget for four straight years, paid off $405 billion in debt.\" (Republican presidential debate in Sioux City, Iowa, Dec ...",
-        "summary": "We thought we’d see whether his new wording about the balanced budget was more accurate.\nPreviously, we rated these statements by Gingrich:• \"When I was speaker, we had four consecutive balanced budgets.\"\nThis time, he said that the nation \"ultimately had four consecutive balanced budgets.\"\n\"You can partially credit the 1997 Balanced Budget Act, but you could also credit the 1993 and 1990 bills that Speaker Gingrich opposed.\nIt's a little too simple to say that the 1997 Balanced Budget Act ‘balanced the budget.’ \"In fact, when a pro-Gingrich super PAC claimed in an Iowa ad that \"Newt balanced the federal budget,\" we rated the statement Half True for this reason."
+        "title": "Mark Strama says Rush Limbaugh made it clear he'd ... - PolitiFact",
+        "url": "https://www.politifact.com/factchecks/2012/sep/13/mark-strama/mark-strama-says-rush-limbaugh-made-it-clear-hed-r/",
+        "snippet": "Sep 13, 2012 ... Says the Republican \"state convention is actually larger than the Republican National Convention.\" true mostly-true. By W. Gardner Selby ...",
+        "summary": "\"That’s why you have Rush Limbaugh making it clear he would rather see the country fail than this president succeed,\" Strama said.\nFor a Fox News program aired Jan. 21, 2009, Limbaugh was asked by commentator Sean Hannity if he wanted Obama to succeed.\nNowhere did we find an instance of Limbaugh saying he’d rather see the country fail than the president succeed.\nOur rulingStrama said Limbaugh made it clear he’d rather see the country fail than Obama succeed.\nLimbaugh has been clear about hoping Obama and his policies fail."
+      }
+    ]
+  },
+  {
+    "fact": "\"(Deborah) Ross defends those who want to burn the American flag, and even called efforts to ban flag-burning ‘ridiculous,’ yet refused to help a disabled veteran fly the flag.\"",
+    "articles": [
+      {
+        "title": "Fake-News-Detection-System/datasets/train.csv at master ...",
+        "url": "https://github.com/raj1603chdry/Fake-News-Detection-System/blob/master/datasets/train.csv",
+        "snippet": "Fake News Detection System for detecting whether news is fake or not. The model is trained using \"Liar, Liar Pants on Fire\": A New Benchmark Dataset for ...",
+        "summary": "Saved searches Use saved searches to filter your results more quicklyWe read every piece of feedback, and take your input very seriously.\nYou signed in with another tab or window.\nYou signed out in another tab or window.\nReload to refresh your session.\nYou switched accounts on another tab or window."
       },
       {
-        "title": "Newt Gingrich quote: I balanced the budget for four straight years ...",
-        "url": "https://www.azquotes.com/quote/1220872",
-        "snippet": "I balanced the budget for four straight years, paid off $405 billion in debt - pretty conservative. The first entitlement reform of your lifetime - in fact, ...",
-        "summary": "OKThis website or its third-party tools use cookies, which are necessary to its functioning and required to achieve the purposes illustrated in the cookie policy.\nIf you want to know more or withdraw your consent to all or some of the cookies, please refer to the cookie policy .\nBy closing this banner, scrolling this page, clicking a link or continuing to browse otherwise, you agree to the use of cookies."
+        "title": "Deborah Ross - PolitiFact",
+        "url": "https://www.politifact.com/personalities/deborah-ross/",
+        "snippet": "Deborah Ross is a Democratic politician from North Carolina. She is a lawyer, former state representative and former head of the North Carolina ACLU.",
+        "summary": "Fact-checking journalism is the heart of PolitiFact.\nOur core principles are independence, transparency, fairness, thorough reporting and clear writing.\nThe reason we publish is to give citizens the information they need to govern themselves in a democracy."
+      }
+    ]
+  },
+  {
+    "fact": "\"The richest 1 percent have more financial wealth than the bottom 95 percent combined.\"",
+    "articles": [
+      {
+        "title": "Michael Moore movie says that top 1 percent owns more ... - PolitiFact",
+        "url": "https://www.politifact.com/factchecks/2009/oct/01/michael-moore/moore-says-top-1-percent-owns-more-financial-wealt/",
+        "snippet": "Oct 1, 2009 ... 29, 2009, news conference in Washington, is that \"the richest 1 percent have more financial wealth than the bottom 95 percent combined.",
+        "summary": "Rather, he specifically said they have more \"financial wealth.\"\nSo what is financial wealth?\nIn the news conference, Moore correctly reported what the Citigroup memo said about the second category, financial wealth.\nDeep inside his data-laden paper is a statistic called \"financial wealth.\"\nBy Kennickell's measurement of \"financial wealth,\" the top 1 percent own 31.5 percent of the financial wealth — less than the 40.2 percent for the bottom 95 percent."
       },
       {
-        "title": "Republican Candidates Debate in Sioux City, Iowa | The American ...",
-        "url": "https://www.presidency.ucsb.edu/documents/republican-candidates-debate-sioux-city-iowa",
-        "snippet": "Dec 15, 2011 ... I balanced the budget for four straight years, paid off $405 billion in debt. Pretty conservative. The first wealth entitlement reform of ...",
-        "summary": "I have worked very hard in the United States Congress in the brief time that I have been there.\n[end video clip]MODERATOR: Thank you Mr. Chairman and welcome back to Sioux City Iowa and the Republican presidential debate.\n[commercial break]MODERATOR: Welcome back to Sioux City, Iowa, and the Republican presidential debate.\nThose steps would begin to fundamentally change the entire way of behavior towards getting control of legality in the United States.\nROMNEY: I think -- I think -- I think you just said exactly what I said, which is this."
+        "title": "Michael Moore: Capitalism has proven it's failed - CNN.com",
+        "url": "https://edition.cnn.com/2009/SHOWBIZ/Movies/09/24/lkl.michael.moore/?iref=nextin",
+        "snippet": "Sep 24, 2009 ... And right now, in America, tonight, Larry, the richest 1 percent have more financial wealth than the bottom 95 percent combined. Don't Miss.",
+        "summary": "(CNN) -- It has been 20 years since filmmaker Michael Moore took on General Motors in \"Roger and Me.\"\nFilmmaker Michael Moore says Wall Street created a \"invisible virtual casino\" with people's money.\nMoore talked with CNN's Larry King about whether capitalism is key to the American dream or the cause of an American nightmare.\nThe upper 1 percent, the people down on Wall Street, the corporate executives, they're the people that control this economy.\nNow, you'd think, you know, that Wall Street would respond with \"Oh, my God, unemployment is going up, you know, this is bad for business.\""
+      },
+      {
+        "title": "Michael Moore says 400 Americans have more wealth ... - PolitiFact",
+        "url": "https://www.politifact.com/factchecks/2011/mar/10/michael-moore/michael-moore-says-400-americans-have-more-wealth-/",
+        "snippet": "Mar 10, 2011 ... ... the richest 1 percent have more financial wealth than the bottom 95 percent combined.\" He was awarded a Mostly True by our colleagues at ...",
+        "summary": "\"Right now, this afternoon, just 400 Americans -- 400 -- have more wealth than half of all Americans combined,\" Moore avowed to tens of thousands of protesters.\nNow let’s see if what he asserts -- that 400 Americans \"have more wealth than half of all Americans combined\" -- is true.\nThe 2010 net worth of the Forbes 400 was $1.37 trillion, Forbes reported in September 2010.\nBut many -- including those who lost a job and their home in the recession -- have a negative net worth.\nSo that drags down the total net worth for the poorer half of U.S. households that Moore cited."
+      },
+      {
+        "title": "Video: On new show, Jay Leno calls Michael Moore's 'Capitalism: A ...",
+        "url": "https://www.mlive.com/tv/2009/09/video_on_new_show_jay_leno_cal.html",
+        "snippet": "Sep 16, 2009 ... \"We're at a point now Jay, in this country, where the richest 1 percent have more financial wealth than the bottom 95 percent combined.",
+        "summary": "On the second night of his new show, Jay Leno had controversial filmmaker Michael Moore on to talk about his upcoming film \"Capitalism: A Love Story,\" which comes out nationwide Oct. 2.\n\"I think it's the best film he's done,\" Leno said before Moore walked out for the interview.\n\"The main thing I liked about this film is that it's completely nonpartisan,\" Leno continued.\n\"Now I think greed is evil,\" Leno said.\n\"Capitialism is actually legalized greed,\" Moore replied."
+      },
+      {
+        "title": "Surprise! Michael Moore Is A Filthy Rich Hypocrite",
+        "url": "https://www.jalopnik.com/surprise-michael-moore-is-a-filthy-rich-hypocrite-1608888124/",
+        "snippet": "Jul 22, 2014 ... And right now, in America, tonight, Larry, the richest 1 percent have more financial wealth than the bottom 95 percent combined. King: You ...",
+        "summary": "Moore and his wife, Kathleen Glynn, will end their marriage of 22 years this week in a courthouse in northern Michigan.\nMoore initiated the divorce, records show.\nIn one filing, Moore complained the expansion cost five times more than Glynn said it would.\nIf you took the eight other properties out of the discussion, Moore and Glynn built a giant house in a solid red part of Michigan.\nOr maybe Moore, long denied the fruits of labor lavished upon his biggest targets, got a taste of the poison and got hooked."
       },
       {
         "title": "Fake-News-Detection-System/datasets/train.csv at master ...",
         "url": "https://github.com/raj1603chdry/Fake-News-Detection-System/blob/master/datasets/train.csv",
-        "snippet": "... I balanced the budget for four straight years, paid off $405 billion in debt.\" true,Sherrod Brown was just voted two years in a row the most liberal senator ...",
+        "snippet": "... The richest 1 percent have more financial wealth than the bottom 95 percent combined. false,Mary Landrieu voted to take away your gun rights. true,Says ...",
         "summary": "Saved searches Use saved searches to filter your results more quicklyWe read every piece of feedback, and take your input very seriously.\nYou signed in with another tab or window.\nYou signed out in another tab or window.\nReload to refresh your session.\nYou switched accounts on another tab or window."
+      }
+    ]
+  },
+  {
+    "fact": "\" 'Scary' fact about our national debt. In 1791 it was $75 million. Today, it rises by that amount in about an hour.\"",
+    "articles": [
+      {
+        "title": "Fake-News-Detection-System/datasets/train.csv at master ...",
+        "url": "https://github.com/raj1603chdry/Fake-News-Detection-System/blob/master/datasets/train.csv",
+        "snippet": "... Scary fact about our national debt. In 1791 it was $75 million. Today, it rises by that amount in about an hour.\" true,Says he earned the highest possible ...",
+        "summary": "Saved searches Use saved searches to filter your results more quicklyWe read every piece of feedback, and take your input very seriously.\nYou signed in with another tab or window.\nYou signed out in another tab or window.\nReload to refresh your session.\nYou switched accounts on another tab or window."
+      }
+    ]
+  },
+  {
+    "fact": "\"One of the first nurses to receive the vaccine in AL is now dead.\"",
+    "articles": [
+      {
+        "title": "Alabama Officials Debunk False Claim of COVID-19 Vaccine Death ...",
+        "url": "https://www.factcheck.org/2020/12/alabama-officials-debunk-false-claim-of-covid-19-vaccine-death/",
+        "snippet": "Dec 17, 2020 ... 15 on Facebook said: “One of the first nurses to receive the vaccine in AL is now dead. We shall see how the media spins this.” Another post ...",
+        "summary": "Quick TakeA false claim that an unidentified nurse died after getting the COVID-19 vaccine in Alabama has been feeding into the anti-vaccine disinformation online.\nFull StoryContrary to a claim circulating on social media, no nurses have died after getting the COVID-19 vaccine in Alabama.\nHealth care workers were slated to be the first to receive the shots, according to the Alabama Department of Public Health.\n“[N]o persons who received COVID-19 vaccine in Alabama have died,” the state’s health department said in a press release responding to the claim.\nFurther information about the safety of the COVID-19 vaccine is available from the Centers for Disease Control and Prevention."
+      },
+      {
+        "title": "An Alabama nurse did not die after taking the coronavirus ... - PolitiFact",
+        "url": "https://www.politifact.com/factchecks/2020/dec/17/facebook-posts/alabama-nurse-did-not-die-after-taking-coronavirus/",
+        "snippet": "Dec 17, 2020 ... stated on December 15, 2020 in text posts and screenshots: “One of the first nurses to receive the vaccine in AL is now dead.” true ...",
+        "summary": "The Alabama Department of Public Health said in a Dec. 16 statement that no recipients of the Pfizer coronavirus vaccine had died.\nAs COVID-19 cases and deaths surge across the country, some Facebook users say frontline health care workers are in trouble.\nThe first shots were given to frontline health care workers on Dec. 14.\nBut we could find no evidence that the Pfizer vaccine has been linked to deaths anywhere since it was first distributed to health care workers.\nThe FDA has not found any reason to believe that the Pfizer vaccine could cause death."
+      },
+      {
+        "title": "Identification of Rumor Sources in Social Network: Reverse ...",
+        "url": "https://ijisae.org/index.php/IJISAE/article/view/5404",
+        "snippet": "Mar 16, 2024 ... Funke, “One of the first nurses to receive the vaccine in AL is now dead,” 2020. https://www.politifact.com/factchecks/2020/dec/17/facebook ...",
+        "summary": "S. Tasnim, M. M. Hossain, and H. Mazumder, “Impact of rumors and misinformation on COVID-19 in social media,” J. Prev.\nJ. Jiang, S. WEN, S. Yu, Y. Xiang, and W. Zhou, “Rumor Source Identification in Social Networks with Time-varying Topology,” IEEE Trans.\nW. Xu and H. Chen, “Scalable Rumor Source Detection under Independent Cascade Model in Online Social Networks,” Proc.\nS. Shelke and V. Attar, “RUMOR SOURCE IDENTIFICATION IN SOCIAL NETWORK WITH LOWEST SEARCH SPACE.,” Turkish Online J. Qual.\nA. Zareie and R. Sakellariou, “Rumour spread minimization in social networks: A source-ignorant approach,” Online Soc."
+      },
+      {
+        "title": "December | 2020 | The Overspill: when there's more that I want to say",
+        "url": "https://theoverspill.blog/2020/12/",
+        "snippet": "Dec 18, 2020 ... 15 text post said “one of the first nurses to receive the vaccine in AL is now dead.” Similar posts said a 42-year-old nurse who got the ...",
+        "summary": "It’s a difference in how the Apple M1 allocates and assigns resources versus how x86 CPUs work.\nBut Kristof’s point is that the implications of this content on Pornhub are far worse than on YouTube, say.\nAs with the other services available on Google smart speakers, you can play Apple Music on multiple speakers at the same time for whole home audio.\n«More interesting is that this puts Apple Music on all the major ecosystems – Apple, Amazon, Google.\n«I have to say that browsing a physical catalogue is far more satisfying than browsing an app – even an iPad (or tablet) app."
+      }
+    ]
+  },
+  {
+    "fact": "\"New York consistently ranks as one of the worst voting turnout states in the nation.\"",
+    "articles": [
+      {
+        "title": "New York consistently ranks low for voter turnout - PolitiFact",
+        "url": "https://www.politifact.com/factchecks/2018/feb/01/andrea-stewart-cousins/new-york-consistently-ranks-low-voter-turnout/",
+        "snippet": "Feb 1, 2018 ... \"New York consistently ranks as one of the worst voting turnout states in the nation,\" Stewart-Cousins said. Democrats in the Senate want ...",
+        "summary": "Andrea Stewart-Cousins, the top-ranking Democrat in the New York State Senate, claimed New York state has one of the lowest voter turnout rates in the country.\n\"New York consistently ranks as one of the worst voting turnout states in the nation,\" Stewart-Cousins said.\n2000 : New York state ranked 35th in voter turnout at 59 percent.\nExcept for 2014, the state’s voter turnout rate has not varied much between four-year periods.\nOur rulingStewart-Cousins said \"New York consistently ranks as one of the worst voting turnout states in the nation.\""
+      }
+    ]
+  },
+  {
+    "fact": "\"When Marcy Kaptur brought home $42 million for new manufacturing jobs, Dennis Kucinich voted 'no'.\"",
+    "articles": [
+      {
+        "title": "Dennis Kucinich - PolitiFact",
+        "url": "https://www.politifact.com/personalities/dennis-kucinich/",
+        "snippet": "stated on February 15, 2012 in a campaign commercial: \"When Marcy Kaptur brought home $42 million for new manufacturing jobs, Dennis Kucinich voted 'no'.\".",
+        "summary": "Dennis Kucinich is running in the Democratic primary for governor of Ohio in 2018.\nKucinich was elected to Congress in 1996.\nHe previously served as a member of the city council and as mayor in Cleveland, the city where he was born in 1946.\nHe earned bachelor's and master's degrees from Case Western University.\nHe was married twice before and has one child."
+      }
+    ]
+  },
+  {
+    "fact": "\"Background checks have been unequivocally shown to reduce gun violence.\"",
+    "articles": [
+      {
+        "title": "PolitiFact: Do gun background checks work? What the research shows",
+        "url": "https://www.tampabay.com/florida-politics/buzz/2020/01/02/politifact-do-gun-background-checks-work-what-the-research-shows/",
+        "snippet": "Jan 2, 2020 ... We've fact-checked the claim that background checks have been unequivocally shown to reduce gun violence. We rated it Half True.",
+        "summary": "The same morning Sen. Chris Murphy, D-Conn., renewed his call on the Senate floor for expanding gun background checks, there was yet another mass school shooting.\nAnd again, politicians and advocates debated whether to expand gun background checks.\nThe battle over whether to tighten background check laws raises a key question: Have background checks proven effective?\nFederal background checks have led to a small percent of denialsUnder federal law, federally licensed gun dealers, importers and manufacturers must run background checks for sales to an unlicensed buyer.\nResearch about background checks is mixedIt’s possible to find research that suggests background checks are at least somewhat effective in reducing gun violence — and possible to find research that suggests little or no impact."
+      },
+      {
+        "title": "Fact-checking presidential hopeful John Hickenlooper on ... - PolitiFact",
+        "url": "https://www.politifact.com/factchecks/2019/may/30/john-hickenlooper/fact-checking-presidential-hopeful-john-hickenloop/",
+        "snippet": "May 30, 2019 ... ... background checks \"have been unequivocally shown to reduce gun violence.\") And the NRA continues to oppose magazine limits, including ...",
+        "summary": "\"We've achieved almost universal health care coverage, and we beat the NRA with tough, tough gun laws,\" the former governor said.\nRequiring universal background checksFederal law requires federally licensed gun dealers to obtain background checks on people they sell firearms to.\nThe Denver Post reported in 2013 that California, New York, New Jersey and Massachusetts still had tougher gun laws than Colorado.\nOur rulingHickenlooper said, \"We beat the NRA with tough, tough gun laws\" in Colorado.\nOne, requiring universal background checks, is law in only 11 states; the other, banning high-capacity magazines, is law in only nine states."
+      },
+      {
+        "title": "Do gun background checks work? What the research ... - PolitiFact",
+        "url": "https://www.politifact.com/article/2020/jan/02/gun-background-checks-what-research-shows/",
+        "snippet": "Jan 2, 2020 ... We've fact-checked the claim that background checks have been unequivocally shown to reduce gun violence. We rated it Half True.",
+        "summary": "And again, politicians and advocates debated whether to expand gun background checks.\nThe battle over whether to tighten background check laws raises a key question: have background checks proven effective?\nSign up for PolitiFact textsWe’ve fact-checked the claim that background checks have been unequivocally shown to reduce gun violence.\nFederal background checks have led to a small percent of denialsUnder federal law, federally licensed gun dealers, importers and manufacturers must run background checks for sales to an unlicensed buyer.\nResearch about background checks is mixedIt’s possible to find research that suggests background checks are at least somewhat effective in reducing gun violence — and possible to find research that suggests little or no impact."
+      }
+    ]
+  },
+  {
+    "fact": "\"The Ukrainian government just indicted the Burisma gas company & named Hunter Biden for accepting millions of dollars from a slush fund.\"",
+    "articles": [
+      {
+        "title": "No, Ukraine didn't indict Burisma on Wednesday - PolitiFact",
+        "url": "https://www.politifact.com/factchecks/2019/nov/22/viral-image/no-ukraine-didnt-indict-burisma-wednesday/",
+        "snippet": "Nov 22, 2019 ... \"The Ukrainian government just indicted the Burisma gas company & named Hunter Biden for accepting millions of dollars from a slush fund.",
+        "summary": "\"The Ukrainian government just indicted the Burisma gas company & named Hunter Biden for accepting millions of dollars from a slush fund.\n\"#Ukraine just indicted Taras Burdeinyi, the chief executive officer of #Burisma,\" this post said.\nHunter Biden was on Burisma’s board of directors until this year.\nReuters reported that the prosecutor’s announcement followed the press conference that Interfax-Ukraine wrote about, in which members of parliament called for an investigation into Burisma-related money laundering.\nShe speculated that the lawmakers who held the press conference were angling for Trump’s attention and trying to \"curry favor\" with his administration."
+      },
+      {
+        "title": "ZeroHedge - Bias and Credibility - Media Bias/Fact Check",
+        "url": "https://mediabiasfactcheck.com/zero-hedge/",
+        "snippet": "“The Ukrainian government just indicted the Burisma gas company & named Hunter Biden for accepting millions of dollars from a slush fund.” – False; During ...",
+        "summary": "See all Conspiracy-Pseudoscience sources.\nOverall, we rate ZeroHedge an extreme right-biased conspiracy website based on the promotion of false/misleading/debunked information that routinely denigrates the left.\nAccording to a Bloomberg Interview, the ZeroHedge founders/authors were anonymous until 2016.\nZero Hedge sources from factually mixed think tanks such as The Mises Institute, which promotes Austrian (Anarcho-Capitalism) economics.\nFailed Fact ChecksOverall, we rate ZeroHedge an extreme right-biased conspiracy website based on the promotion of false/misleading/debunked information that routinely denigrates the left."
+      }
+    ]
+  },
+  {
+    "fact": "Seventy-two percent of Georgians did not have a chance to finish college.",
+    "articles": [
+      {
+        "title": "How Student Debt Worsens Racial Inequality - Georgia Budget and ...",
+        "url": "https://gbpi.org/how-student-debt-worsens-racial-inequality/",
+        "snippet": "Nov 18, 2020 ... Seventy-two percent of students enrolled in for-profit colleges in Georgia are women, and 44 percent are Black women. Loan default rates among ...",
+        "summary": "Growing student debt indicates the shift of risk and responsibility for paying for higher education to individuals from the public, yet the burden of excessive student debt spreads from individuals out to the economy.\nMost college students who graduate finish their degrees with debt: 57 percent of Georgia college graduates carry debt, and of those who do, the average debt burden is $28,824.\n[15] The racial wealth gap both contributes to and is exacerbated by student debt.\nRacial disparities in student loan debt and the reproduction of the fragile black middle class.\nMajoring in debt: Why student loan debt is growing the racial wealth gap."
+      },
+      {
+        "title": "Seventy-Two High School, College and Graduate Students ...",
+        "url": "https://www.nyc.gov/site/ddc/about/press-releases/2019/pr-081619-ddc-student.page",
+        "snippet": "Aug 16, 2019 ... Had I not been curious in the work and projects that other interns were involved in, I wouldn't have had the opportunity to meet a Percent ...",
+        "summary": "Seventy-Two High School, College and Graduate Students Complete Their 2019 Summer Internships at DDCDDC: Shoshana Khan, 718-391-1251, KhanSho@ddc.nyc.gov(Long Island City, NY – August 16, 2019) The NYC Department of Design and Construction (DDC) Commissioner Lorraine Grillo today addressed 31 high school and 41 college and graduate students at a closing ceremony to mark the conclusion of their technically oriented paid summer internships.\nThis was the fifth year of DDC’s High School Summer Internship program, which has mentored 143 high school students to date.\nDDC received 384 applications from high school students all over New York City.\nPamela Bernal, a rising junior at the High School for Construction Trades, Engineering and Architecture in Ozone Park and represented the high school interns at the closing ceremony, held today at DDC’s offices in Long Island City, Queens.\nThe High School Summer Internship Program is also organized in partnership with the NYC Department of Youth & Community Development."
+      },
+      {
+        "title": "Georgia Education Budget Primer for State Fiscal Year 2024 ...",
+        "url": "https://gbpi.org/georgia-education-budget-primer-for-state-fiscal-year-2024/",
+        "snippet": "Jun 27, 2023 ... Seventy-two percent of the additional dollars ($840 million) ... Georgia is one of two states that does not offer comprehensive need ...",
+        "summary": "Georgia’s 2024 Education BudgetThe state budget for K-12 public schools is $11.9 billion in fiscal year (FY) 2024, an increase of $1.2 billion from FY 2023.\nChild Care Gained Little Ground Over the Past DecadeThe Department of Early Care and Learning (DECAL) administers Child Care Services, the Pre-Kindergarten Program, Nutrition Services and Quality Initiatives.\nChild Care Services includes the Childcare and Parent Services (CAPS) program, the state’s child care subsidy and support to child care providers.\nUniversity System of Georgia / Board of RegentsThe 2024 budget for the University System of Georgia (USG) is $3.1 billion.\nWithin TCSG and USG, most institutions utilized the College Completion grants, except for Augusta Technical College, Savannah Technical College, Gordon State College and Savannah State University."
+      },
+      {
+        "title": "Why Youth Incarceration Fails: An Updated Review of the Evidence ...",
+        "url": "https://www.sentencingproject.org/reports/why-youth-incarceration-fails-an-updated-review-of-the-evidence/",
+        "snippet": "Mar 1, 2023 ... Scientists have confirmed that the brain does not fully mature until ... complete college than comparable youth who were incarcerated.",
+        "summary": "A 2011 analysis found that the states that made the largest reductions in youth incarceration from 1997 to 2007 saw a greater decline in youth arrest rates than states that made smaller reductions or increased youth confinement.\nSince 2015, the stream of abuse revelations in youth incarceration facilities has continued.\nThe boy was the twelfth juvenile facility detainee in Florida to die under questionable circumstances since 2000.\nA national survey of incarcerated youth conducted in 2008-09 found that among youth who reported being victimized, more than 80% were victimized more than once.\nIn its exhaustive investigation of the abuses, the Boston Globe interviewed several youth who had been raped repeatedly by facility staff."
+      },
+      {
+        "title": "Does a masters degree in cybersecurity pull any weight pertaining to ...",
+        "url": "https://www.reddit.com/r/cybersecurity/comments/slc83l/does_a_masters_degree_in_cybersecurity_pull_any/",
+        "snippet": "Feb 5, 2022 ... ... graduate school to get my master of science in technology ... school and your company doesn't, which do you guess is wrong? Upvote",
+        "summary": "Also for the past two-semester, I’ve been a part of my university’s cybersecurity team as an intern.\nIn retrospect, I’m wanting to know if it’s actually worth it or if I should just go straight into the field.\nEven at that point, based on the comments, most companies will pay for the masters that could lead to a managerial role.\nNonetheless, I have come across a hand full of people who highly benefited from their masters in cybersecurity early on in their career.\nOverall, continue posting comments because I believe this post has really helped a lot of people wanting to enter this field!"
+      },
+      {
+        "title": "2017 Justice Gap Report | LSC - Legal Services Corporation ...",
+        "url": "https://www.lsc.gov/our-impact/publications/other-publications-and-reports/2017-justice-gap-report",
+        "snippet": "Most American adults with family incomes below 125% of FPL do not have any college education. ... Twenty-eight percent have not finished high school, while 35% ...",
+        "summary": "That corresponds to an estimated 1.1 to 1.2 million eligible civil legal problems expected to go unserved or underserved in 2017 alone.\n33 2017 Justice Gap Measurement Survey, 2017, computed variable summarizing legal help-seeking behavior for civil legal issues, based on multiple questionnaire responses.\n34 2017 Justice Gap Measurement Survey, question 30: What kind of legal help [have you received so far / did you receive]?\nAppendix A: 2017 Justice Gap Measurement Survey MethodologyReaders are encouraged to visit www.lsc.gov/justicegap2017, where they can find the full technical survey report, the questionnaire, and the codebook corresponding to the 2017 Justice Gap Measurement Survey.\nAppendix B2: Section 2 Data Sources and MethodologyThe findings presented in Section 2, “Experience with Civil Legal Problems,” come exclusively from the 2017 Justice Gap Measurement Survey."
+      }
+    ]
+  },
+  {
+    "fact": "The national debt grew an estimated $15 billion last weekend.",
+    "articles": [
+      {
+        "title": "The 2024-25 Budget: Deficit Update",
+        "url": "https://lao.ca.gov/publications/report/4850",
+        "snippet": "Feb 20, 2024 ... Under LAO Revenue Update, Budget Problem Grows by $15 Billion. The state already faces a significant deficit this year—we estimate it totaled ...",
+        "summary": "Specifically, our forecast is about $24 billion below the Governor’s budget across 2022‑23 to 2024‑25.\nOptions to Address $15 Billion in Additional Budget ProblemIf the budget problem increases by $15 billion, the Legislature will need to find a like amount of new budget solutions to ensure the budget is balanced for 2024‑25.\nFirst, when this one-time and temporary spending was adopted, it was understood that doing so would provide a cushion for future budget problems.\nRecent budgets allocated tens of billions of dollars in surpluses to one-time and temporary spending, including in 2023‑24, 2024‑25, and 2025‑26.\nAs such, we would view this list as a starting place for the Legislature as it begins crafting the final budget package."
+      },
+      {
+        "title": "Monthly Budget Review: February 2025 | Congressional Budget Office",
+        "url": "https://www.cbo.gov/publication/61196/html",
+        "snippet": "Estimated Deficit in February 2025: $308 Billion · Outlays for refundable tax credits increased by $15 billion (or 29 percent). · Net outlays for interest on the ...",
+        "summary": "The federal budget deficit totaled $1.1 trillion in the first five months of fiscal year 2025, the Congressional Budget Office estimates.\nBased on the Monthly Treasury Statement for January 2025 and the Daily Treasury Statements for February 2025.\nIn January 2025, CBO projected a deficit of $1.9 trillion for fiscal year 2025, the same as the actual deficit for fiscal year 2024.\nIf not for those timing shifts, the budget would have shown a deficit of $312 billion in February 2025, CBO estimates.\nActual Deficit in January 2025: $129 BillionThe Treasury Department reported a deficit of $129 billion for January—$2 billion more than CBO estimated last month, on the basis of the Daily Treasury Statements, in the Monthly Budget Review: January 2025."
+      },
+      {
+        "title": "What Are Interest Costs on the National Debt?",
+        "url": "https://www.pgpf.org/article/what-are-interest-costs-on-the-national-debt/",
+        "snippet": "Mar 25, 2024 ... ... public debt, interest payments have grown rapidly over the past two years, and they are projected to continue growing. The Congressional ...",
+        "summary": "Interest PaymentsGross interest outlays mostly reflect payments on debt held by the public as well as intragovernmental payments on debt held by government accounts, primarily the trust funds for Social Security and pensions for retired military and civilian federal workers.\nInterest ReceiptsInterest receipts come primarily from Treasury securities held by federal trust funds (the interest payments are also recorded in the budget).\nThe government’s interest costs are mainly determined by the interest rates on U.S. Treasury securities and the amount of debt held by the public.\nInterest RatesBefore the past year or so, short-term interest rates in recent decades were declining or near zero; such rates are generally controlled by the Federal Reserve through the federal funds rate.\nExpectations about short-term interest rates and concerns about inflation have also boosted longer-term rates."
+      },
+      {
+        "title": "California budget deficit balloons to $73 billion- CalMatters",
+        "url": "https://calmatters.org/politics/capitol/2024/02/california-budget-deficit-balloons/",
+        "snippet": "Feb 20, 2024 ... Gavin Newsom is the state budget deficit — and it just got bigger. Today, the Legislative Analyst's Office projected the shortfall as $15 ...",
+        "summary": "Gavin Newsom is the state budget deficit — and it just got bigger.\nUnless state tax revenues pick up significantly, the bigger number will make it more difficult to balance the state budget just through dipping into reserves and targeted spending cuts.\nIn the coming weeks, Rivas’ plan calls for an oversight budget subcommittee he formed in December to review the state’s spending on housing, he said.\nBut, as legislative leaders and the governor have noted, the budget deficit won’t be addressed just through oversight and cuts.\nNewsom will propose an updated budget in May before negotiations with legislative leaders and a final spending blueprint in June."
+      },
+      {
+        "title": "The Cost of Immigration Enforcement and Border Security ...",
+        "url": "https://www.americanimmigrationcouncil.org/research/the-cost-of-immigration-enforcement-and-border-security",
+        "snippet": "Aug 14, 2024 ... The federal government has spent an estimated $409 billion on the agencies that carry out immigration enforcement, and tens of billions more on border barriers.",
+        "summary": "Immigration enforcement spending largely falls into two issue areas: border security and interior enforcement.\nEven with record level spending on enforcement, enforcement alone is not sufficient to address the challenges irregular migration brings.\nThe Cost of Immigration Enforcement and Border Security in DollarsThe immigration enforcement budget has increased massively since the early 1990s, but many members of Congress and the president continue to call for more taxpayer dollars to be spent on immigration enforcement.\nImmigration enforcement spending largely falls into two issue areas: border security and interior enforcement.\nEven with record level spending on enforcement, enforcement alone is not sufficient to address the challenges irregular migration brings."
+      },
+      {
+        "title": "The Fiscal Impact of the Harris and Trump Campaign Plans-Mon, 10 ...",
+        "url": "https://www.crfb.org/papers/fiscal-impact-harris-and-trump-campaign-plans",
+        "snippet": "The national debt currently stands at 99 percent of Gross Domestic Product (GDP) and is projected to grow from 102 percent of GDP at the start of FY 2026 to 125 ...",
+        "summary": "Vice President Kamala Harris and former President Donald Trump have both called for a number of policy changes with potentially significant fiscal impact.\nAs in past election years, this analysis presents high- and low-cost estimates for each proposal along with our central estimates.\nWe estimate President Trump’s plan would push debt to 143 percent of GDP in 2035 – an 18 percent of GDP increase.\nIn our central estimate, we estimate these Medicare proposals would cost about $500 billion, compared to our prior estimate of $200 billion.\n9 The Harris campaign estimates their America Forward Tax Credit and investments in research would cost about $100 billion."
       }
     ]
   }
