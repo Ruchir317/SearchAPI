@@ -1511,3 +1511,8 @@
 [1206] "Governor Evers, AG Josh Kaul, and Speaker Robin Vos are demanding ‘Red Flag Gun Seizures’ for Wisco... → No valid articles found.
 [1207] "The average family in America forks over more of their hard-earned income to their local hospital t... → No valid articles found.
 [1208] Iran’s "regime is responsible for more than 1,000 American casualties during the Iraq war" and "has ... → No valid articles found.
+[1204] "This administration is slashing the Navy to pay for more Obamacare."... → Expecting value: line 1 column 1 (char 0)
+[1201] "In Trump’s first year as president, job growth slowed to a six-year low."... → Expecting value: line 1 column 1 (char 0)
+[1202] "The richest 1 percent have more financial wealth than the bottom 95 percent combined."... → Expecting value: line 1 column 1 (char 0)
+[1210] The national debt grew an estimated $15 billion last weekend.... → Expecting value: line 1 column 1 (char 0)
+[1214] " 'Scary' fact about our national debt. In 1791 it was $75 million. Today, it rises by that amount i... → Expecting property name enclosed in double quotes: line 16712 column 9 (char 2366793)
